@@ -1,0 +1,3767 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global}
+    \entry{altrock2015mathematics}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e69132e900fcf519f78d67e1495cde53}{%
+           family={Altrock},
+           family_i={A\bibinitperiod},
+           given={Philipp\bibnamedelima M},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c6319aa2f33bda846ba856142143ec6c}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Lin\bibnamedelima L},
+           given_i={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{%
+           family={Michor},
+           family_i={M\bibinitperiod},
+           given={Franziska},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{98eab283ab42fd5a91c1b50f5bb44580}
+      \strng{fullhash}{98eab283ab42fd5a91c1b50f5bb44580}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Cancer}
+      \field{number}{12}
+      \field{title}{The mathematics of cancer: integrating quantitative models}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{730}
+      \range{pages}{1}
+    \endentry
+    \entry{Asarin2003ReachabilityAO}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a3bdf73d8fec233840e74db5c5e258a3}{%
+           family={Asarin},
+           family_i={A\bibinitperiod},
+           given={Eugene},
+           given_i={E\bibinitperiod}}}%
+        {{hash=b59c7389a6d9b7e52167bd932201b133}{%
+           family={Dang},
+           family_i={D\bibinitperiod},
+           given={Thao},
+           given_i={T\bibinitperiod}}}%
+        {{hash=c287fd0c6a662cc10a08563ad239907f}{%
+           family={Girard},
+           family_i={G\bibinitperiod},
+           given={Antoine},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a8fb2a58c3796794c7d483a19e8009e}
+      \strng{fullhash}{4a8fb2a58c3796794c7d483a19e8009e}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{HSCC}
+      \field{title}{Reachability Analysis of Nonlinear Systems Using Conservative Approximation}
+      \field{year}{2003}
+    \endentry
+    \entry{assouline2011monitoring}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e6d02807cd4fdadbbfe42a74ca84a36b}{%
+           family={Assouline},
+           family_i={A\bibinitperiod},
+           given={Sarit},
+           given_i={S\bibinitperiod}}}%
+        {{hash=63a37f94958ed960027c62c136d01954}{%
+           family={Lipton},
+           family_i={L\bibinitperiod},
+           given={Jeffrey\bibnamedelima H},
+           given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multimed Inc.}%
+      }
+      \strng{namehash}{f55b7ef2a7b4fb261b01215dd570ec87}
+      \strng{fullhash}{f55b7ef2a7b4fb261b01215dd570ec87}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Oncology}
+      \field{number}{2}
+      \field{title}{Monitoring response and resistance to treatment in chronic myeloid leukemia}
+      \field{volume}{18}
+      \field{year}{2011}
+      \field{pages}{e71}
+      \range{pages}{-1}
+    \endentry
+    \entry{atallah2018design}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=dc32e40569164e7dff45fba077306cbb}{%
+           family={Atallah},
+           family_i={A\bibinitperiod},
+           given={Ehab},
+           given_i={E\bibinitperiod}}}%
+        {{hash=70b559022f688a2da8746614c8fd32f4}{%
+           family={Schiffer},
+           family_i={S\bibinitperiod},
+           given={Charles\bibnamedelima A},
+           given_i={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f38a0343accd2d263b31373c7d70c8fb}{%
+           family={Weinfurt},
+           family_i={W\bibinitperiod},
+           given={Kevin\bibnamedelima P},
+           given_i={K\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4b49b026d58f56324f865cb098d5c795}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Mei-Jie},
+           given_i={M\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=494cfc6fb18817448568dbf4e911e819}{%
+           family={Radich},
+           family_i={R\bibinitperiod},
+           given={Jerald\bibnamedelima P},
+           given_i={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a7010724980aeba7c2d2869029237d1f}{%
+           family={Oehler},
+           family_i={O\bibinitperiod},
+           given={Vivian\bibnamedelima G},
+           given_i={V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5a1977dab8994b048444106e43d04421}{%
+           family={Pinilla-Ibarz},
+           family_i={P\bibinithyphendelim I\bibinitperiod},
+           given={Javier},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d4c6d5f2617dc6b60f65b14ebe905e8d}{%
+           family={Deininger},
+           family_i={D\bibinitperiod},
+           given={Michael\bibnamedelima WN},
+           given_i={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=84e9edb45602671fc0899e2c5a23f482}{%
+           family={Lin},
+           family_i={L\bibinitperiod},
+           given={Li},
+           given_i={L\bibinitperiod}}}%
+        {{hash=e17ef2afbb966c75ff10a01dbf84f207}{%
+           family={Larson},
+           family_i={L\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{f0e56011918551ae2172147bbd853b6b}
+      \strng{fullhash}{639b6c31eb07fb6610acc799171eec9d}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC cancer}
+      \field{number}{1}
+      \field{title}{Design and rationale for the life after stopping tyrosine kinase inhibitors (LAST) study, a prospective, single-group longitudinal study in patients with chronic myeloid leukemia}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{359}
+      \range{pages}{1}
+    \endentry
+    \entry{baccarani2012chronic}{article}{}
+      \name{author}{7}{}{%
+        {{hash=6a68c3699051c6f6903d4d1e0a748858}{%
+           family={Baccarani},
+           family_i={B\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+        {{hash=0b7944a322199f0de6545515a7ab8ec0}{%
+           family={Pileri},
+           family_i={P\bibinitperiod},
+           given={S},
+           given_i={S\bibinitperiod}}}%
+        {{hash=14c9bed4d0462a84e82ee5ac76ff761e}{%
+           family={Steegmann},
+           family_i={S\bibinitperiod},
+           given={J-L},
+           given_i={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=039743120d9beb1eb4e194a8bdfbafcb}{%
+           family={Muller},
+           family_i={M\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+        {{hash=f502c1f9fb757703f9bbd0a26421f64d}{%
+           family={Soverini},
+           family_i={S\bibinitperiod},
+           given={S},
+           given_i={S\bibinitperiod}}}%
+        {{hash=8a3900fe99755710ca28043f0859fbfe}{%
+           family={Dreyling},
+           family_i={D\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+        {{hash=e285c604d935bd5b0d5d36ebda5185b2}{%
+           family={Group},
+           family_i={G\bibinitperiod},
+           given={ESMO\bibnamedelimb Guidelines\bibnamedelima Working},
+           given_i={E\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a1e05f3a626fb3ed9033d4a861d1572d}
+      \strng{fullhash}{8f701483befe30d7df6353ccfdba3b3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of oncology}
+      \field{number}{suppl\_7}
+      \field{title}{Chronic myeloid leukemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up}
+      \field{volume}{23}
+      \field{year}{2012}
+      \field{pages}{vii72\bibrangedash vii77}
+      \range{pages}{-1}
+    \endentry
+    \entry{baccarani2009chronic}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=be5259013f835ad018055a727286c4ea}{%
+           family={Baccarani},
+           family_i={B\bibinitperiod},
+           given={Michele},
+           given_i={M\bibinitperiod}}}%
+        {{hash=412d4171bd8e479affe9414a6da54a45}{%
+           family={Cortes},
+           family_i={C\bibinitperiod},
+           given={Jorge},
+           given_i={J\bibinitperiod}}}%
+        {{hash=8f7761ea22a475b94ce745bf54c8aa01}{%
+           family={Pane},
+           family_i={P\bibinitperiod},
+           given={Fabrizio},
+           given_i={F\bibinitperiod}}}%
+        {{hash=da9299682d98bf02356cbbf3efd05669}{%
+           family={Niederwieser},
+           family_i={N\bibinitperiod},
+           given={Dietger},
+           given_i={D\bibinitperiod}}}%
+        {{hash=fdaa93b96ffc1ff0a07bd125fdbfd58c}{%
+           family={Saglio},
+           family_i={S\bibinitperiod},
+           given={Giuseppe},
+           given_i={G\bibinitperiod}}}%
+        {{hash=6f25ddfbf53508dbf969a6c301002b9e}{%
+           family={Apperley},
+           family_i={A\bibinitperiod},
+           given={Jane},
+           given_i={J\bibinitperiod}}}%
+        {{hash=7eb1bb08086941ae16fc2834bb1d09c0}{%
+           family={Cervantes},
+           family_i={C\bibinitperiod},
+           given={Francisco},
+           given_i={F\bibinitperiod}}}%
+        {{hash=7f2f27cdf2993a973a26869bf50efba2}{%
+           family={Deininger},
+           family_i={D\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+        {{hash=78f70f9d384116ec1688d01831b81c86}{%
+           family={Gratwohl},
+           family_i={G\bibinitperiod},
+           given={Alois},
+           given_i={A\bibinitperiod}}}%
+        {{hash=61d34a774c5037225dbd74b76d502045}{%
+           family={Guilhot},
+           family_i={G\bibinitperiod},
+           given={François},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Clinical Oncology}%
+      }
+      \strng{namehash}{e90f3247404b3b22aafe93c14bfe9cc5}
+      \strng{fullhash}{63ee4f24bb65d84f41555bf8db029ffd}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of clinical oncology}
+      \field{number}{35}
+      \field{title}{Chronic myeloid leukemia: an update of concepts and management recommendations of European LeukemiaNet}
+      \field{volume}{27}
+      \field{year}{2009}
+      \field{pages}{6041}
+      \range{pages}{1}
+    \endentry
+    \entry{bergstra2012random}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0bc66fe902c838c216bd3175dfeb045b}{%
+           family={Bergstra},
+           family_i={B\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           family_i={B\bibinitperiod},
+           given={Yoshua},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \strng{fullhash}{a05cf9842110d2caa7fbdda862c52ff8}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{Feb}
+      \field{title}{Random search for hyper-parameter optimization}
+      \field{volume}{13}
+      \field{year}{2012}
+      \field{pages}{281\bibrangedash 305}
+      \range{pages}{25}
+    \endentry
+    \entry{bhamidipati2013management}{article}{}
+      \name{author}{5}{}{%
+        {{hash=bdcc7a3a57666ecaa0adeda11eca1f49}{%
+           family={Bhamidipati},
+           family_i={B\bibinitperiod},
+           given={Pavan\bibnamedelima Kumar},
+           given_i={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c714f12cd432200480a5ffee9b55a92d}{%
+           family={Kantarjian},
+           family_i={K\bibinitperiod},
+           given={Hagop},
+           given_i={H\bibinitperiod}}}%
+        {{hash=412d4171bd8e479affe9414a6da54a45}{%
+           family={Cortes},
+           family_i={C\bibinitperiod},
+           given={Jorge},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d41a9ca897b9ecf05957391c79dd1748}{%
+           family={Cornelison},
+           family_i={C\bibinitperiod},
+           given={A\bibnamedelima Megan},
+           given_i={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4548bfafc7323d9770056fe6176253b9}{%
+           family={Jabbour},
+           family_i={J\bibinitperiod},
+           given={Elias},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{18abd76e6f9f2db692a18c0e193beef0}
+      \strng{fullhash}{f888545ab1bb13ae14995040f29b16c9}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Therapeutic advances in hematology}
+      \field{number}{2}
+      \field{title}{Management of imatinib-resistant patients with chronic myeloid leukemia}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{103\bibrangedash 117}
+      \range{pages}{15}
+    \endentry
+    \entry{branford2013early}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{%
+           family={Branford},
+           family_i={B\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=f2301f083b96d13374c66cd40b4f69c1}{%
+           family={Yeung},
+           family_i={Y\bibinitperiod},
+           given={David\bibnamedelima T},
+           given_i={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=74ff8be42ffb4b0b72011b3bff36f42f}{%
+           family={Ross},
+           family_i={R\bibinitperiod},
+           given={David\bibnamedelima M},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bf32f3cc465c22fa73f972761990a56a}{%
+           family={Prime},
+           family_i={P\bibinitperiod},
+           given={Jodi\bibnamedelima A},
+           given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1e71473b819684bd5aa15089f154960d}{%
+           family={Field},
+           family_i={F\bibinitperiod},
+           given={Chani\bibnamedelima R},
+           given_i={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e736f22d74c3b5568eca6488af3b6d34}{%
+           family={Altamura},
+           family_i={A\bibinitperiod},
+           given={Haley\bibnamedelima K},
+           given_i={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a113faf3a1148cacf522f5b90860fb15}{%
+           family={Yeoman},
+           family_i={Y\bibinitperiod},
+           given={Alexandra\bibnamedelima L},
+           given_i={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=acc7226ca8b2683417908f6a8b78c1c4}{%
+           family={Georgievski},
+           family_i={G\bibinitperiod},
+           given={Jasmina},
+           given_i={J\bibinitperiod}}}%
+        {{hash=521c0f63acbe5633aa51617342be482d}{%
+           family={Jamison},
+           family_i={J\bibinitperiod},
+           given={Bronte\bibnamedelima A},
+           given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e3c06a7e2412e234132676e6d6a4630e}{%
+           family={Phillis},
+           family_i={P\bibinitperiod},
+           given={Stuart},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{42d7a14721b790f447c5a049c32ee7f7}
+      \strng{fullhash}{3dd8650db7a17a1578e4a59272e42756}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{19}
+      \field{title}{Early molecular response and female sex strongly predict stable undetectable BCR-ABL1, the criteria for imatinib discontinuation in patients with CML}
+      \field{volume}{121}
+      \field{year}{2013}
+      \field{pages}{3818\bibrangedash 3824}
+      \range{pages}{7}
+    \endentry
+    \entry{breccia2008differences}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ce1f6d651452b5bffe86dcfd54a1a4f5}{%
+           family={Breccia},
+           family_i={B\bibinitperiod},
+           given={Massimo},
+           given_i={M\bibinitperiod}}}%
+        {{hash=b81d4d9676265e305dc9828b33fd2bb4}{%
+           family={Stefanizzi},
+           family_i={S\bibinitperiod},
+           given={Caterina},
+           given_i={C\bibinitperiod}}}%
+        {{hash=de6bad29d0c157cc1fe5a4d09cc9d3e5}{%
+           family={Cannella},
+           family_i={C\bibinitperiod},
+           given={Laura},
+           given_i={L\bibinitperiod}}}%
+        {{hash=59bcc3022e3e4b9c0fe1e9afcd11d2e1}{%
+           family={Latagliata},
+           family_i={L\bibinitperiod},
+           given={Roberto},
+           given_i={R\bibinitperiod}}}%
+        {{hash=98725c8cb3c7911665fc598d252d154d}{%
+           family={Frustaci},
+           family_i={F\bibinitperiod},
+           given={Anna\bibnamedelima Maria},
+           given_i={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bc3289d03f791b33a5c2fadb73157e99}{%
+           family={Carmosino},
+           family_i={C\bibinitperiod},
+           given={Ida},
+           given_i={I\bibinitperiod}}}%
+        {{hash=6913db309771e44b2cb318d862365533}{%
+           family={Santopietro},
+           family_i={S\bibinitperiod},
+           given={Michelina},
+           given_i={M\bibinitperiod}}}%
+        {{hash=ed6c81e95ce48d5415c775565ed6930d}{%
+           family={Alimena},
+           family_i={A\bibinitperiod},
+           given={Giuliana},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{02869145d10385e8dd6d2c203e70b34b}
+      \strng{fullhash}{7828a03e4caf33ae0987955a30a1350a}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leukemia \& lymphoma}
+      \field{number}{12}
+      \field{title}{Differences in hematological and non-hematological toxicity during treatment with imatinib in patients with early and late chronic phase chronic myeloid leukemia}
+      \field{volume}{49}
+      \field{year}{2008}
+      \field{pages}{2328\bibrangedash 2332}
+      \range{pages}{5}
+    \endentry
+    \entry{bruns2009hematopoietic}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=98c6fe18f7ff8ed330e98ab55384600b}{%
+           family={Bruns},
+           family_i={B\bibinitperiod},
+           given={I},
+           given_i={I\bibinitperiod}}}%
+        {{hash=19b78965c7a981b2052944e54b52af82}{%
+           family={Czibere},
+           family_i={C\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=9cf513712831c4030fa417b6c09a55d8}{%
+           family={Fischer},
+           family_i={F\bibinitperiod},
+           given={JC},
+           given_i={J\bibinitperiod}}}%
+        {{hash=618ac0b62a023405a3cc1e530b290811}{%
+           family={Roels},
+           family_i={R\bibinitperiod},
+           given={F},
+           given_i={F\bibinitperiod}}}%
+        {{hash=3803fada6ff6bd6efadbc91cd5590ab8}{%
+           family={Cadeddu},
+           family_i={C\bibinitperiod},
+           given={RP},
+           given_i={R\bibinitperiod}}}%
+        {{hash=3b3c200b26609f788b5a6a85a1ca1182}{%
+           family={Buest},
+           family_i={B\bibinitperiod},
+           given={S},
+           given_i={S\bibinitperiod}}}%
+        {{hash=58d1145e30f2a36b3be7ed36b76edef1}{%
+           family={Bruennert},
+           family_i={B\bibinitperiod},
+           given={D},
+           given_i={D\bibinitperiod}}}%
+        {{hash=d7a13964c8eeab768e73f5e6ba10de40}{%
+           family={Huenerlituerkoglu},
+           family_i={H\bibinitperiod},
+           given={AN},
+           given_i={A\bibinitperiod}}}%
+        {{hash=3f45e57abfe2684111d8a985d587f398}{%
+           family={Stoecklein},
+           family_i={S\bibinitperiod},
+           given={NH},
+           given_i={N\bibinitperiod}}}%
+        {{hash=535b46081523fc5c5dcfaba2a621d930}{%
+           family={Singh},
+           family_i={S\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1dd1882ee0168dc22e83d4a467f48fc7}
+      \strng{fullhash}{82b5b48efa11ff3fa312eeb53725c04c}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leukemia}
+      \field{number}{5}
+      \field{title}{The hematopoietic stem cell in chronic phase CML is characterized by a transcriptional profile resembling normal myeloid progenitor cells and reflecting loss of quiescence}
+      \field{volume}{23}
+      \field{year}{2009}
+      \field{pages}{892}
+      \range{pages}{1}
+    \endentry
+    \entry{buchdunger1996inhibition}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e8d674f51738b942ac96c20e3ada24d6}{%
+           family={Buchdunger},
+           family_i={B\bibinitperiod},
+           given={Elisabeth},
+           given_i={E\bibinitperiod}}}%
+        {{hash=e9d2b95109d19600b892efb5ab1114d5}{%
+           family={Zimmermann},
+           family_i={Z\bibinitperiod},
+           given={Jürg},
+           given_i={J\bibinitperiod}}}%
+        {{hash=ba5d847e7ece9263bccc681e46596d78}{%
+           family={Mett},
+           family_i={M\bibinitperiod},
+           given={Helmut},
+           given_i={H\bibinitperiod}}}%
+        {{hash=58bd290ba8aea9e44a31110c04c7f90a}{%
+           family={Meyer},
+           family_i={M\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{hash=42c3dd84afe0d86f0fce322b6205bafc}{%
+           family={Müller},
+           family_i={M\bibinitperiod},
+           given={Marcel},
+           given_i={M\bibinitperiod}}}%
+        {{hash=adf048f25cf78b9b7c7b798933bf13f9}{%
+           family={Druker},
+           family_i={D\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ff0ef92d16c2887865da9c805872b120}{%
+           family={Lydon},
+           family_i={L\bibinitperiod},
+           given={Nicholas\bibnamedelima B},
+           given_i={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AACR}%
+      }
+      \strng{namehash}{67ec3afad37ff146ab8fc5821d716aec}
+      \strng{fullhash}{d5fad5bfdd49cc66cea12548df8ba8d4}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancer research}
+      \field{number}{1}
+      \field{title}{Inhibition of the Abl protein-tyrosine kinase in vitro and in vivo by a 2-phenylaminopyrimidine derivative}
+      \field{volume}{56}
+      \field{year}{1996}
+      \field{pages}{100\bibrangedash 104}
+      \range{pages}{5}
+    \endentry
+    \entry{calvi2003osteoblastic}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=2a4a9a96811caeef685586a68e8d52a6}{%
+           family={Calvi},
+           family_i={C\bibinitperiod},
+           given={LM},
+           given_i={L\bibinitperiod}}}%
+        {{hash=18a199783002bedc019334c112f3d6eb}{%
+           family={Adams},
+           family_i={A\bibinitperiod},
+           given={GB},
+           given_i={G\bibinitperiod}}}%
+        {{hash=36ce184d36d057b5de84f041eeab8dfc}{%
+           family={Weibrecht},
+           family_i={W\bibinitperiod},
+           given={KW},
+           given_i={K\bibinitperiod}}}%
+        {{hash=570b9a29235b689fa87447e242c01080}{%
+           family={Weber},
+           family_i={W\bibinitperiod},
+           given={JM},
+           given_i={J\bibinitperiod}}}%
+        {{hash=37d823935abe94081d76c86273880d5d}{%
+           family={Olson},
+           family_i={O\bibinitperiod},
+           given={DP},
+           given_i={D\bibinitperiod}}}%
+        {{hash=02747aa330e5c73ff6a0c81fbb9f8bf9}{%
+           family={Knight},
+           family_i={K\bibinitperiod},
+           given={MC},
+           given_i={M\bibinitperiod}}}%
+        {{hash=aa364583e7ef5d352ab51e02b871df05}{%
+           family={Martin},
+           family_i={M\bibinitperiod},
+           given={RP},
+           given_i={R\bibinitperiod}}}%
+        {{hash=762eddb14f8f00bac4c66dcb5f168979}{%
+           family={Schipani},
+           family_i={S\bibinitperiod},
+           given={E},
+           given_i={E\bibinitperiod}}}%
+        {{hash=a5d3f2bfd2c8987a1067e92573c1ac9e}{%
+           family={Divieti},
+           family_i={D\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+        {{hash=a68633f8bbf16ca1689a32e89832a87b}{%
+           family={Bringhurst},
+           family_i={B\bibinitperiod},
+           given={F\bibnamedelima Rv},
+           given_i={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1f982d53ad5751511d6e91e98771a745}
+      \strng{fullhash}{79faae8b690c53241f2b79fdde7c5133}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6960}
+      \field{title}{Osteoblastic cells regulate the haematopoietic stem cell niche}
+      \field{volume}{425}
+      \field{year}{2003}
+      \field{pages}{841}
+      \range{pages}{1}
+    \endentry
+    \entry{chen2017journey}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=df057793d83692df151d9ae5dc93183e}{%
+           family={Chen},
+           family_i={C\bibinitperiod},
+           given={Christopher\bibnamedelima T},
+           given_i={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=946be39f741144b418583971ed9c77dc}{%
+           family={Kesselheim},
+           family_i={K\bibinitperiod},
+           given={Aaron\bibnamedelima S},
+           given_i={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Clinical Oncology}%
+      }
+      \strng{namehash}{441d1e049792987c90a3024006b18df7}
+      \strng{fullhash}{441d1e049792987c90a3024006b18df7}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Journey of generic imatinib: a case study in oncology drug pricing}
+      \field{year}{2017}
+    \endentry
+    \entry{experts2013price}{article}{}
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=d00d0223494e8964645cca82e1813aed}{%
+           prefix={in},
+           prefix_i={i\bibinitperiod},
+           family={Chronic\bibnamedelimb Myeloid\bibnamedelima Leukemia},
+           family_i={C\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Experts},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{a6d84c7ce59265ce56ee6f0b430f7f9d}
+      \strng{fullhash}{a6d84c7ce59265ce56ee6f0b430f7f9d}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{22}
+      \field{title}{The price of drugs for chronic myeloid leukemia (CML) is a reflection of the unsustainable prices of cancer drugs: from the perspective of a large group of CML experts}
+      \field{volume}{121}
+      \field{year}{2013}
+      \field{pages}{4439\bibrangedash 4442}
+      \range{pages}{4}
+    \endentry
+    \entry{cohen2002approval}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=0fb1c1c3e45452f9690626f191c8cd82}{%
+           family={Cohen},
+           family_i={C\bibinitperiod},
+           given={Martin\bibnamedelima H},
+           given_i={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=93a49e0d4724413436d5eb2cd6dd4f8e}{%
+           family={Williams},
+           family_i={W\bibinitperiod},
+           given={Grant},
+           given_i={G\bibinitperiod}}}%
+        {{hash=0fb786ef1cb1cfbb752beeb64af98421}{%
+           family={Johnson},
+           family_i={J\bibinitperiod},
+           given={John\bibnamedelima R},
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=582d3d17eef082eccf4069d8e2b69e91}{%
+           family={Duan},
+           family_i={D\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+        {{hash=f00d14f9b5ca6db028a3453590d07adf}{%
+           family={Gobburu},
+           family_i={G\bibinitperiod},
+           given={Jogarao},
+           given_i={J\bibinitperiod}}}%
+        {{hash=8b6b74c8f74c130e8f5ada73f5237858}{%
+           family={Rahman},
+           family_i={R\bibinitperiod},
+           given={Atiqur},
+           given_i={A\bibinitperiod}}}%
+        {{hash=5eaa5db9b97a809862f5bcb9bcf8aab7}{%
+           family={Benson},
+           family_i={B\bibinitperiod},
+           given={Kimberly},
+           given_i={K\bibinitperiod}}}%
+        {{hash=aa48b1ec95a0faa3b013b0e692d0d6c5}{%
+           family={Leighton},
+           family_i={L\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+        {{hash=0dcf22c75fc2034dd5fa2fadf108c3cc}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Sung\bibnamedelima K},
+           given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b871dce05a38edc41876f9bc78b8c8a6}{%
+           family={Wood},
+           family_i={W\bibinitperiod},
+           given={Rebecca},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AACR}%
+      }
+      \strng{namehash}{ae4c3a0304f8d61d73c6037715310831}
+      \strng{fullhash}{5ff8074df03e3f580c5d150534c7d05b}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Cancer Research}
+      \field{number}{5}
+      \field{title}{Approval summary for imatinib mesylate capsules in the treatment of chronic myelogenous leukemia}
+      \field{volume}{8}
+      \field{year}{2002}
+      \field{pages}{935\bibrangedash 942}
+      \range{pages}{8}
+    \endentry
+    \entry{cortes2016evaluating}{article}{}
+      \name{author}{10}{}{%
+        {{hash=39864f173b6ed929c1a486b6fef15418}{%
+           family={Cortes},
+           family_i={C\bibinitperiod},
+           given={Jorge\bibnamedelima E},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=63a37f94958ed960027c62c136d01954}{%
+           family={Lipton},
+           family_i={L\bibinitperiod},
+           given={Jeffrey\bibnamedelima H},
+           given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5bcdf799424f12706c4a870951675b51}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={Carole\bibnamedelima B},
+           given_i={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=823324318b94a0f75260a4fb5dbe0ef5}{%
+           family={Busque},
+           family_i={B\bibinitperiod},
+           given={Lambert},
+           given_i={L\bibinitperiod}}}%
+        {{hash=149189e46754d16ad62eaf0e7df2e9ad}{%
+           family={Akard},
+           family_i={A\bibinitperiod},
+           given={Luke\bibnamedelima P},
+           given_i={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5a1977dab8994b048444106e43d04421}{%
+           family={Pinilla-Ibarz},
+           family_i={P\bibinithyphendelim I\bibinitperiod},
+           given={Javier},
+           given_i={J\bibinitperiod}}}%
+        {{hash=78419e13ddfb558ccf74e84e72ca01f1}{%
+           family={Keir},
+           family_i={K\bibinitperiod},
+           given={Christopher},
+           given_i={C\bibinitperiod}}}%
+        {{hash=f36a4bd95f37e6a6475c70ebc0b8137b}{%
+           family={Warsi},
+           family_i={W\bibinitperiod},
+           given={Ghulam},
+           given_i={G\bibinitperiod}}}%
+        {{hash=fa932adbcf2ac36b61b52c45f7b05e56}{%
+           family={Lin},
+           family_i={L\bibinitperiod},
+           given={Felice\bibnamedelima P},
+           given_i={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e7a0d1364b4514931b6df8700d63ccb0}{%
+           family={Mauro},
+           family_i={M\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{696e2d4634d7a77b13e1b43d9f6344ab}
+      \strng{fullhash}{6fb12567d7de831fea7262e949ea5f93}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Lymphoma, Myeloma and Leukemia}
+      \field{number}{5}
+      \field{title}{Evaluating the impact of a switch to nilotinib on imatinib-related chronic low-grade adverse events in patients with CML-CP: the ENRICH study}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{286\bibrangedash 296}
+      \range{pages}{11}
+    \endentry
+    \entry{cumbo2018genomic}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=aebfe7a7bfd6a23545d09c4fd13c5d94}{%
+           family={Cumbo},
+           family_i={C\bibinitperiod},
+           given={Cosimo},
+           given_i={C\bibinitperiod}}}%
+        {{hash=97b087afeacf141a5b6f5c019136c249}{%
+           family={Impera},
+           family_i={I\bibinitperiod},
+           given={Luciana},
+           given_i={L\bibinitperiod}}}%
+        {{hash=fdd24af67d79b00544d11642a97630cd}{%
+           family={Minervini},
+           family_i={M\bibinitperiod},
+           given={Crescenzio\bibnamedelima Francesco},
+           given_i={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=16277972e228c9915509633c49a5d1a1}{%
+           family={Orsini},
+           family_i={O\bibinitperiod},
+           given={Paola},
+           given_i={P\bibinitperiod}}}%
+        {{hash=5977e585c3ec63a7ab0220d17608d492}{%
+           family={Anelli},
+           family_i={A\bibinitperiod},
+           given={Luisa},
+           given_i={L\bibinitperiod}}}%
+        {{hash=49a3a852a8ad357e9cb418ecbcd47446}{%
+           family={Zagaria},
+           family_i={Z\bibinitperiod},
+           given={Antonella},
+           given_i={A\bibinitperiod}}}%
+        {{hash=fa6f6356bccc97425c7aff623e8d7070}{%
+           family={Coccaro},
+           family_i={C\bibinitperiod},
+           given={Nicoletta},
+           given_i={N\bibinitperiod}}}%
+        {{hash=16be761e3166bfeae3a80b58607bbbba}{%
+           family={Tota},
+           family_i={T\bibinitperiod},
+           given={Giuseppina},
+           given_i={G\bibinitperiod}}}%
+        {{hash=df3f829ce1350add3b66bba9673024d4}{%
+           family={Minervini},
+           family_i={M\bibinitperiod},
+           given={Angela},
+           given_i={A\bibinitperiod}}}%
+        {{hash=e687cb94ced2d9df1ae69d42f22a913f}{%
+           family={Casieri},
+           family_i={C\bibinitperiod},
+           given={Paola},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Impact Journals, LLC}%
+      }
+      \strng{namehash}{9c344b7c321961d9a151bead447367da}
+      \strng{fullhash}{cfb75d0aa0db0b6a26a8b77ab508db35}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oncotarget}
+      \field{number}{13}
+      \field{title}{Genomic BCR-ABL1 breakpoint characterization by a multi-strategy approach for “personalized monitoring” of residual disease in chronic myeloid leukemia patients}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{10978}
+      \range{pages}{1}
+    \endentry
+    \entry{druker1996effects}{article}{}
+      \name{author}{8}{}{%
+        {{hash=adf048f25cf78b9b7c7b798933bf13f9}{%
+           family={Druker},
+           family_i={D\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7bf147d642b36f8fea49995c666621ec}{%
+           family={Tamura},
+           family_i={T\bibinitperiod},
+           given={Shu},
+           given_i={S\bibinitperiod}}}%
+        {{hash=e8d674f51738b942ac96c20e3ada24d6}{%
+           family={Buchdunger},
+           family_i={B\bibinitperiod},
+           given={Elisabeth},
+           given_i={E\bibinitperiod}}}%
+        {{hash=5d092b5112a90053d3eed3370a6cc86f}{%
+           family={Ohno},
+           family_i={O\bibinitperiod},
+           given={Sayuri},
+           given_i={S\bibinitperiod}}}%
+        {{hash=5a4519b01198e143269cc2d8ebc91b9d}{%
+           family={Segal},
+           family_i={S\bibinitperiod},
+           given={Gerald\bibnamedelima M},
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fd2b4d56d3afb5379f53b68a3afd3f0c}{%
+           family={Fanning},
+           family_i={F\bibinitperiod},
+           given={Shane},
+           given_i={S\bibinitperiod}}}%
+        {{hash=e9d2b95109d19600b892efb5ab1114d5}{%
+           family={Zimmermann},
+           family_i={Z\bibinitperiod},
+           given={Jürg},
+           given_i={J\bibinitperiod}}}%
+        {{hash=ff0ef92d16c2887865da9c805872b120}{%
+           family={Lydon},
+           family_i={L\bibinitperiod},
+           given={Nicholas\bibnamedelima B},
+           given_i={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{cc0c6f72c28bc317d987dca98caa0429}
+      \strng{fullhash}{7f9c6e72c6183a262e3bce6df7c8da84}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature medicine}
+      \field{number}{5}
+      \field{title}{Effects of a selective inhibitor of the Abl tyrosine kinase on the growth of Bcr--Abl positive cells}
+      \field{volume}{2}
+      \field{year}{1996}
+      \field{pages}{561}
+      \range{pages}{1}
+    \endentry
+    \entry{faber2016lower}{article}{}
+      \name{author}{10}{}{%
+        {{hash=be8609bc193d11676f2005c87519426a}{%
+           family={Faber},
+           family_i={F\bibinitperiod},
+           given={Edgar},
+           given_i={E\bibinitperiod}}}%
+        {{hash=b3e7d4605e4632d69bae0eb1f526a19c}{%
+           family={Divoká},
+           family_i={D\bibinitperiod},
+           given={Martina},
+           given_i={M\bibinitperiod}}}%
+        {{hash=0df00df69fb30547342a0c1f6c922928}{%
+           family={Skoumalová},
+           family_i={S\bibinitperiod},
+           given={Ivana},
+           given_i={I\bibinitperiod}}}%
+        {{hash=f54546e8ebef40089bc759665b8cce56}{%
+           family={Novák},
+           family_i={N\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+        {{hash=c1d1345241f1d5d7b5f385f490d8f238}{%
+           family={Marešová},
+           family_i={M\bibinitperiod},
+           given={Ivana},
+           given_i={I\bibinitperiod}}}%
+        {{hash=a6f5d3dd17096ce492dd2807b7afa705}{%
+           family={Mičová},
+           family_i={M\bibinitperiod},
+           given={Kateřina},
+           given_i={K\bibinitperiod}}}%
+        {{hash=bdb331ed8f06cc932d811fd1ebcbc830}{%
+           family={Friedeckỳ},
+           family_i={F\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+        {{hash=d3a1ac1329aa21ca766d39bd6bc25462}{%
+           family={Adam},
+           family_i={A\bibinitperiod},
+           given={Tomáš},
+           given_i={T\bibinitperiod}}}%
+        {{hash=7fcb13945b101cb37057f217a364c662}{%
+           family={Jarošová},
+           family_i={J\bibinitperiod},
+           given={Marie},
+           given_i={M\bibinitperiod}}}%
+        {{hash=325946224f65d3adee929f5c6aada6a6}{%
+           family={Indrák},
+           family_i={I\bibinitperiod},
+           given={Karel},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{bc7f8f768d5ef1334222900af9fe4e80}
+      \strng{fullhash}{0826b958ef23e08278eca6e3698471ec}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leukemia \& lymphoma}
+      \field{number}{2}
+      \field{title}{A lower dosage of imatinib is sufficient to maintain undetectable disease in patients with chronic myeloid leukemia with long-term low-grade toxicity of the treatment}
+      \field{volume}{57}
+      \field{year}{2016}
+      \field{pages}{370\bibrangedash 375}
+      \range{pages}{6}
+    \endentry
+    \entry{effetto-imatinib-1}{article}{}
+      \name{author}{7}{}{%
+        {{hash=c58650b2d51f4d3ea8191a1418bd14ba}{%
+           family={Fang},
+           family_i={F\bibinitperiod},
+           given={Guofu},
+           given_i={G\bibinitperiod}}}%
+        {{hash=4afd3d5f39fdb504c1f70dec0e7a6179}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Caryn\bibnamedelima Naekyung},
+           given_i={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=1b36c6cb3da87bc8d9886aed01e9ea3c}{%
+           family={Perkins},
+           family_i={P\bibinitperiod},
+           given={Charles\bibnamedelima L},
+           given_i={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=4541176cea9574456b248f0222b44ad4}{%
+           family={Ramadevi},
+           family_i={R\bibinitperiod},
+           given={Nimmanapalli},
+           given_i={N\bibinitperiod}}}%
+        {{hash=cbea3b758055f20a1e50b76a8cc936f1}{%
+           family={Winton},
+           family_i={W\bibinitperiod},
+           given={Elliott},
+           given_i={E\bibinitperiod}}}%
+        {{hash=20a04b1c6b07230d344c507b19b883af}{%
+           family={Wittmann},
+           family_i={W\bibinitperiod},
+           given={Sylvie},
+           given_i={S\bibinitperiod}}}%
+        {{hash=dcb25ab94f166c8a7716d53da7502956}{%
+           family={Bhalla},
+           family_i={B\bibinitperiod},
+           given={Kapil\bibnamedelima N},
+           given_i={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{714c6ab45fdf37e5dfa408174edd9cc8}
+      \strng{fullhash}{f14ce6c5aeae42973f03bd2b967e4f83}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{6}
+      \field{title}{CGP57148B (STI-571) induces differentiation and apoptosis and sensitizes Bcr-Abl--positive human leukemia cells to apoptosis due to antileukemic drugs}
+      \field{volume}{96}
+      \field{year}{2000}
+      \field{pages}{2246\bibrangedash 2253}
+      \range{pages}{8}
+    \endentry
+    \entry{fojo2009much}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3072dc91052d2962286085dcf058c921}{%
+           family={Fojo},
+           family_i={F\bibinitperiod},
+           given={Tito},
+           given_i={T\bibinitperiod}}}%
+        {{hash=12f8de18ce0f23bd7f2d8c89428a6e04}{%
+           family={Grady},
+           family_i={G\bibinitperiod},
+           given={Christine},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b01c54fe75a938bc2b115f1edffdef3c}
+      \strng{fullhash}{b01c54fe75a938bc2b115f1edffdef3c}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the National Cancer Institute}
+      \field{number}{15}
+      \field{title}{How much is life worth: cetuximab, non--small cell lung cancer, and the $440$ billion question}
+      \field{volume}{101}
+      \field{year}{2009}
+      \field{pages}{1044\bibrangedash 1048}
+      \range{pages}{5}
+    \endentry
+    \entry{fried2009erythropoietin}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0497696d01fede3eb5294e9bd201deca}{%
+           family={Fried},
+           family_i={F\bibinitperiod},
+           given={Walter},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0497696d01fede3eb5294e9bd201deca}
+      \strng{fullhash}{0497696d01fede3eb5294e9bd201deca}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Experimental hematology}
+      \field{number}{9}
+      \field{title}{Erythropoietin and erythropoiesis}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{1007\bibrangedash 1015}
+      \range{pages}{9}
+    \endentry
+    \entry{garrido2001acute}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e6304f32661534ba56cf18eae311344f}{%
+           family={Garrido},
+           family_i={G\bibinitperiod},
+           given={Sara\bibnamedelima M},
+           given_i={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6b511c364a4b904fe86329d7e2f76eef}{%
+           family={Appelbaum},
+           family_i={A\bibinitperiod},
+           given={Frederick\bibnamedelima R},
+           given_i={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=47e98f07f33353451b88d2f443be569e}{%
+           family={Willman},
+           family_i={W\bibinitperiod},
+           given={Cheryl\bibnamedelima L},
+           given_i={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8453ea778e0bee80c1dd19b3f5ca9605}{%
+           family={Banker},
+           family_i={B\bibinitperiod},
+           given={Deborah\bibnamedelima E},
+           given_i={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4763b6c66071e281d14ecc3792d1750f}
+      \strng{fullhash}{58fe99773ab2491b00725f696e7ca242}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Experimental hematology}
+      \field{number}{4}
+      \field{title}{Acute myeloid leukemia cells are protected from spontaneous and drug-induced apoptosis by direct contact with a human bone marrow stromal cell line (HS-5)}
+      \field{volume}{29}
+      \field{year}{2001}
+      \field{pages}{448\bibrangedash 457}
+      \range{pages}{10}
+    \endentry
+    \entry{gomez2017insights}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1845d19b90901f182febfb232cba9f8b}{%
+           family={Gomez-de-León},
+           family_i={G\bibinithyphendelim L\bibinitperiod},
+           given={Andrés},
+           given_i={A\bibinitperiod}}}%
+        {{hash=1120d3c13fb1a33a71a161ec921b3afc}{%
+           family={Gómez-Almaguer},
+           family_i={G\bibinithyphendelim A\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+        {{hash=8f9c5d22102658fc891e812108d1a0cf}{%
+           family={Ruiz-Delgado},
+           family_i={R\bibinithyphendelim D\bibinitperiod},
+           given={Guillermo\bibnamedelima J},
+           given_i={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=58f2ed186d4bba4c2e8d0bb24a213c3b}{%
+           family={Ruiz-Arguelles},
+           family_i={R\bibinithyphendelim A\bibinitperiod},
+           given={Guillermo\bibnamedelima J},
+           given_i={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{65affbb00fb570be302a6eb333bec6db}
+      \strng{fullhash}{db5ebf3c31fcd2fa6cdc71cde9e1c54f}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert review of hematology}
+      \field{number}{9}
+      \field{title}{Insights into the management of chronic myeloid leukemia in resource-poor settings: a Mexican perspective}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{809\bibrangedash 819}
+      \range{pages}{11}
+    \endentry
+    \entry{graham2002primitive}{article}{}
+      \name{author}{7}{}{%
+        {{hash=834f153cdc3284925b0992cad20d259f}{%
+           family={Graham},
+           family_i={G\bibinitperiod},
+           given={Susan\bibnamedelima M},
+           given_i={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1212e236458d98ddb90fc467d5ee3daa}{%
+           family={J{ø}rgensen},
+           family_i={J\bibinitperiod},
+           given={Heather\bibnamedelima G},
+           given_i={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=9146a776f36a8d230e64064902f67e0b}{%
+           family={Allan},
+           family_i={A\bibinitperiod},
+           given={Elaine},
+           given_i={E\bibinitperiod}}}%
+        {{hash=6022d6a5f8539ac28569ae625e82a8a1}{%
+           family={Pearson},
+           family_i={P\bibinitperiod},
+           given={Charlie},
+           given_i={C\bibinitperiod}}}%
+        {{hash=93393a223a41c5a4b732d6c6d99af4a4}{%
+           family={Alcorn},
+           family_i={A\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a4ad30781bd7c26159da919cf76a1b2f}{%
+           family={Richmond},
+           family_i={R\bibinitperiod},
+           given={Linda},
+           given_i={L\bibinitperiod}}}%
+        {{hash=5b471d51e7454664c312f54bd9cb9829}{%
+           family={Holyoake},
+           family_i={H\bibinitperiod},
+           given={Tessa\bibnamedelima L},
+           given_i={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{ad98f50533a2c4657f267f678c723cdc}
+      \strng{fullhash}{cf508f3b79d42c8192efe2fcdba15827}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{1}
+      \field{title}{Primitive, quiescent, Philadelphia-positive stem cells from patients with chronic myeloid leukemia are insensitive to STI571 in vitro}
+      \field{volume}{99}
+      \field{year}{2002}
+      \field{pages}{319\bibrangedash 325}
+      \range{pages}{7}
+    \endentry
+    \entry{griffin1986clonogenic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=db7bf1cb0d9a86bd7860ca3e0d89224b}{%
+           family={Griffin},
+           family_i={G\bibinitperiod},
+           given={JD},
+           given_i={J\bibinitperiod}}}%
+        {{hash=3a6c457f3a7205cd45541f8804929feb}{%
+           family={Lowenberg},
+           family_i={L\bibinitperiod},
+           given={B},
+           given_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c45fdefda173195d2f08058012b52f4b}
+      \strng{fullhash}{c45fdefda173195d2f08058012b52f4b}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{6}
+      \field{title}{Clonogenic cells in acute myeloblastic leukemia}
+      \field{volume}{68}
+      \field{year}{1986}
+      \field{pages}{1185\bibrangedash 1195}
+      \range{pages}{11}
+    \endentry
+    \entry{himmelstein2009medical}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e7ec84c4c23e6895433647678c64888c}{%
+           family={Himmelstein},
+           family_i={H\bibinitperiod},
+           given={David\bibnamedelima U},
+           given_i={D\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=0d11ce7fcfebd6b4745a7ab1654a1774}{%
+           family={Thorne},
+           family_i={T\bibinitperiod},
+           given={Deborah},
+           given_i={D\bibinitperiod}}}%
+        {{hash=ce51ea3c11d0e9e5cb82b730d39a1bcc}{%
+           family={Warren},
+           family_i={W\bibinitperiod},
+           given={Elizabeth},
+           given_i={E\bibinitperiod}}}%
+        {{hash=f915bb0337d9d94de33e51c4076e178c}{%
+           family={Woolhandler},
+           family_i={W\bibinitperiod},
+           given={Steffie},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e85c09c6a3f2140fce2ac36a104b2269}
+      \strng{fullhash}{4afea26ef0428686ba0b3ec82d494ca9}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American journal of medicine}
+      \field{number}{8}
+      \field{title}{Medical bankruptcy in the United States, 2007: results of a national study}
+      \field{volume}{122}
+      \field{year}{2009}
+      \field{pages}{741\bibrangedash 746}
+      \range{pages}{6}
+    \endentry
+    \entry{experiment-affidabile-4}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=fe1992c31980e053a45e2c9dc259cc46}{%
+           family={Hochhaus},
+           family_i={H\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=f752be649578413bcfa9307a2e6b52ea}{%
+           family={Lin},
+           family_i={L\bibinitperiod},
+           given={F},
+           given_i={F\bibinitperiod}}}%
+        {{hash=298b6786071472c05bb37bc3ab8e8cf4}{%
+           family={Reiter},
+           family_i={R\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=87ff13dda09ac8e7b0d2593beb011e47}{%
+           family={Skladny},
+           family_i={S\bibinitperiod},
+           given={H},
+           given_i={H\bibinitperiod}}}%
+        {{hash=f84c3b763e9f7b9ed48a81db2e63dfcf}{%
+           family={Mason},
+           family_i={M\bibinitperiod},
+           given={PJ},
+           given_i={P\bibinitperiod}}}%
+        {{hash=a4bd608cad37ad552b4a6f373b02c205}{%
+           family={Shepherd},
+           family_i={S\bibinitperiod},
+           given={PC},
+           given_i={P\bibinitperiod}}}%
+        {{hash=6b44e3e276e58c11b855dc3371a3f93f}{%
+           family={Allan},
+           family_i={A\bibinitperiod},
+           given={NC},
+           given_i={N\bibinitperiod}}}%
+        {{hash=7504aa7351e9b63fb57ea9c64be72163}{%
+           family={Hehlmann},
+           family_i={H\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+        {{hash=bf7c16cb18c61cd0a0b5b7d7c8c1a327}{%
+           family={Goldman},
+           family_i={G\bibinitperiod},
+           given={JM},
+           given_i={J\bibinitperiod}}}%
+        {{hash=f92d9ec6921a4ebd2b8fceaa92e96f56}{%
+           family={Cross},
+           family_i={C\bibinitperiod},
+           given={NC},
+           given_i={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba7111c60aa25428fac274fc2049d2c2}
+      \strng{fullhash}{427cf274fc329807bb8c7428e0971bbc}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{4}
+      \field{title}{Quantification of residual disease in chronic myelogenous leukemia patients on interferon-alpha therapy by competitive polymerase chain reaction.}
+      \field{volume}{87}
+      \field{year}{1996}
+      \field{pages}{1549\bibrangedash 1555}
+      \range{pages}{7}
+    \endentry
+    \entry{holyoake2017chronic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5b471d51e7454664c312f54bd9cb9829}{%
+           family={Holyoake},
+           family_i={H\bibinitperiod},
+           given={Tessa\bibnamedelima L},
+           given_i={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=72710eb3f62a7e1d395c02d7dfd63abe}{%
+           family={Vetrie},
+           family_i={V\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{d12e8d7e3c2b41f9ad9dc2c047f248dd}
+      \strng{fullhash}{d12e8d7e3c2b41f9ad9dc2c047f248dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{12}
+      \field{title}{The chronic myeloid leukemia stem cell: stemming the tide of persistence}
+      \field{volume}{129}
+      \field{year}{2017}
+      \field{pages}{1595\bibrangedash 1606}
+      \range{pages}{12}
+    \endentry
+    \entry{hu2012mechanistic}{article}{}
+      \name{author}{8}{}{%
+        {{hash=45a7af8053a259fa6ebfef785ecdfa28}{%
+           family={Hu},
+           family_i={H\bibinitperiod},
+           given={Wenyue},
+           given_i={W\bibinitperiod}}}%
+        {{hash=775eb4181dfd244bf9ed6af739dec44d}{%
+           family={Lu},
+           family_i={L\bibinitperiod},
+           given={Shuyan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=178a5e7aadf1a1839e4dc5775c6e5962}{%
+           family={McAlpine},
+           family_i={M\bibinitperiod},
+           given={Indrawan},
+           given_i={I\bibinitperiod}}}%
+        {{hash=65e1701dc063f5a0a932fc5bb92827d8}{%
+           family={Jamieson},
+           family_i={J\bibinitperiod},
+           given={Joseph\bibnamedelima D},
+           given_i={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9f9f6a52d895b87e760b2942491fbd5e}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={Dong\bibnamedelima U},
+           given_i={D\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=114b5232791eca95d655e7dcc1da8b62}{%
+           family={D.\bibnamedelimi Marroquin},
+           family_i={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Lisa},
+           given_i={L\bibinitperiod}}}%
+        {{hash=75259efeb2fb3489bd963eac37e466fa}{%
+           family={Heyen},
+           family_i={H\bibinitperiod},
+           given={Jonathan\bibnamedelima R},
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ad26f79431407a2f78aa323de68c4491}{%
+           family={Jessen},
+           family_i={J\bibinitperiod},
+           given={Bart\bibnamedelima A},
+           given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press US}%
+      }
+      \strng{namehash}{930fa03d0efd084e1d41df81d170b6e8}
+      \strng{fullhash}{3c9419e5facff43b490e8a87217127e0}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Toxicological Sciences}
+      \field{number}{1}
+      \field{title}{Mechanistic investigation of imatinib-induced cardiac toxicity and the involvement of c-Abl kinase}
+      \field{volume}{129}
+      \field{year}{2012}
+      \field{pages}{188\bibrangedash 199}
+      \range{pages}{12}
+    \endentry
+    \entry{hughes2014safety}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=63b2c8907fde3cadc5ebe95bca0cf58e}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy\bibnamedelima P},
+           given_i={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5bfd0180f7db5bbc1b9920ce67251be0}{%
+           family={Hochhaus},
+           family_i={H\bibinitperiod},
+           given={Andreas},
+           given_i={A\bibinitperiod}}}%
+        {{hash=6237d008692f1925807491efd7933b71}{%
+           family={Kantarjian},
+           family_i={K\bibinitperiod},
+           given={Hagop\bibnamedelima M},
+           given_i={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7eb1bb08086941ae16fc2834bb1d09c0}{%
+           family={Cervantes},
+           family_i={C\bibinitperiod},
+           given={Francisco},
+           given_i={F\bibinitperiod}}}%
+        {{hash=61d34a774c5037225dbd74b76d502045}{%
+           family={Guilhot},
+           family_i={G\bibinitperiod},
+           given={François},
+           given_i={F\bibinitperiod}}}%
+        {{hash=da9299682d98bf02356cbbf3efd05669}{%
+           family={Niederwieser},
+           family_i={N\bibinitperiod},
+           given={Dietger},
+           given_i={D\bibinitperiod}}}%
+        {{hash=8bd4a5bb426d5e76f8e49085c7fd3309}{%
+           prefix={le},
+           prefix_i={l\bibinitperiod},
+           family={Coutre},
+           family_i={C\bibinitperiod},
+           given={Philipp\bibnamedelima D},
+           given_i={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3b42ac947bad957694b7074cad55ac5c}{%
+           family={Rosti},
+           family_i={R\bibinitperiod},
+           given={Gianantonio},
+           given_i={G\bibinitperiod}}}%
+        {{hash=de0d4a829e8f3ababcca2cb24f03129c}{%
+           family={Ossenkoppele},
+           family_i={O\bibinitperiod},
+           given={Gert},
+           given_i={G\bibinitperiod}}}%
+        {{hash=04182bd4f8dba1f862040cd692278f8b}{%
+           family={Lobo},
+           family_i={L\bibinitperiod},
+           given={Clarisse},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haematologica}%
+      }
+      \strng{namehash}{eee3949814d32a84e970e380fc8acfd4}
+      \strng{fullhash}{a3ded956c3a93838345c03aefca0b154}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{haematologica}
+      \field{number}{7}
+      \field{title}{Safety and efficacy of switching to nilotinib 400 mg twice daily for patients with chronic myeloid leukemia in chronic phase with suboptimal response or failure on front-line imatinib or nilotinib 300 mg twice daily}
+      \field{volume}{99}
+      \field{year}{2014}
+      \field{pages}{1204\bibrangedash 1211}
+      \range{pages}{8}
+    \endentry
+    \entry{hughes2016treatment}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=63b2c8907fde3cadc5ebe95bca0cf58e}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy\bibnamedelima P},
+           given_i={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d7f4b4cdfad3e201cde82ab982e7ff48}{%
+           family={Boquimpani},
+           family_i={B\bibinitperiod},
+           given={Carla\bibnamedelima Maria},
+           given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=050e131d943e43e8d4f15ad13a583e25}{%
+           family={Takahashi},
+           family_i={T\bibinitperiod},
+           given={Naoto},
+           given_i={N\bibinitperiod}}}%
+        {{hash=b31682284dda155ec370cedc5745215c}{%
+           family={Benyamini},
+           family_i={B\bibinitperiod},
+           given={Noam},
+           given_i={N\bibinitperiod}}}%
+        {{hash=abcadd94365e279e703423bfabe256a4}{%
+           family={Clementino},
+           family_i={C\bibinitperiod},
+           given={Nelma\bibnamedelimb Cristina\bibnamedelima D},
+           given_i={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=445d0ecea59880f69aaa4145b0ec52b4}{%
+           family={Shuvaev},
+           family_i={S\bibinitperiod},
+           given={Vasily},
+           given_i={V\bibinitperiod}}}%
+        {{hash=ecf4b52cc653a0581e3709d3de1b90ff}{%
+           family={Ailawadhi},
+           family_i={A\bibinitperiod},
+           given={Sikander},
+           given_i={S\bibinitperiod}}}%
+        {{hash=63a37f94958ed960027c62c136d01954}{%
+           family={Lipton},
+           family_i={L\bibinitperiod},
+           given={Jeffrey\bibnamedelima H},
+           given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=bd24c698b0cdcdf131fa39a1d4bbfb0a}{%
+           family={Turkina},
+           family_i={T\bibinitperiod},
+           given={Anna\bibnamedelima G},
+           given_i={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=464b34d4bfae48a85bb67c7665393095}{%
+           family={Moiraghi},
+           family_i={M\bibinitperiod},
+           given={Elena\bibnamedelima Beatriz},
+           given_i={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{eee3949814d32a84e970e380fc8acfd4}
+      \strng{fullhash}{0243bb178d0c8ba66afd87a64f2c350c}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Treatment-free remission in patients with chronic myeloid leukemia in chronic phase according to reasons for switching from imatinib to nilotinib: subgroup analysis from ENESTop}
+      \field{year}{2016}
+    \endentry
+    \entry{ishida2016pharmacokinetics}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=6668f55716732b7e5005375a58205d29}{%
+           family={Ishida},
+           family_i={I\bibinitperiod},
+           given={Yoji},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=9819784b373ae41d5513a9e03875a09c}{%
+           family={Murai},
+           family_i={M\bibinitperiod},
+           given={Kazunori},
+           given_i={K\bibinitperiod}}}%
+        {{hash=d868e62151d5e7e456292d11616a7710}{%
+           family={Yamaguchi},
+           family_i={Y\bibinitperiod},
+           given={Kohei},
+           given_i={K\bibinitperiod}}}%
+        {{hash=ffe7e5d4b1a54ea0665e52cc0508cd81}{%
+           family={Miyagishima},
+           family_i={M\bibinitperiod},
+           given={Takuto},
+           given_i={T\bibinitperiod}}}%
+        {{hash=c4741d02aa565c554f072e80d052f24c}{%
+           family={Shindo},
+           family_i={S\bibinitperiod},
+           given={Motohiro},
+           given_i={M\bibinitperiod}}}%
+        {{hash=ea1cc8c7323c52a41f24e840f74bdf46}{%
+           family={Ogawa},
+           family_i={O\bibinitperiod},
+           given={Kazuei},
+           given_i={K\bibinitperiod}}}%
+        {{hash=d36ce6a8605d4343770fddf0184e8d0a}{%
+           family={Nagashima},
+           family_i={N\bibinitperiod},
+           given={Takahiro},
+           given_i={T\bibinitperiod}}}%
+        {{hash=d2f0f59f3a24631cebc1522508d89b27}{%
+           family={Sato},
+           family_i={S\bibinitperiod},
+           given={Shinji},
+           given_i={S\bibinitperiod}}}%
+        {{hash=ee180a0c9a21005fc6974c64f6a79120}{%
+           family={Watanabe},
+           family_i={W\bibinitperiod},
+           given={Reiko},
+           given_i={R\bibinitperiod}}}%
+        {{hash=d7d9838643b13c051cbb86f25ed28e1f}{%
+           family={Yamamoto},
+           family_i={Y\bibinitperiod},
+           given={Satoshi},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4f56fa005a4271c33b1cd2dd38cb6140}
+      \strng{fullhash}{267dfde053a7f6baa7035e5db184db05}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European journal of clinical pharmacology}
+      \field{number}{2}
+      \field{title}{Pharmacokinetics and pharmacodynamics of dasatinib in the chronic phase of newly diagnosed chronic myeloid leukemia}
+      \field{volume}{72}
+      \field{year}{2016}
+      \field{pages}{185\bibrangedash 193}
+      \range{pages}{9}
+    \endentry
+    \entry{jabbour}{article}{}
+      \name{author}{6}{}{%
+        {{hash=97295a89154d1b261170aa88d2f2ddf1}{%
+           family={Jabbour},
+           family_i={J\bibinitperiod},
+           given={Elias\bibnamedelima J},
+           given_i={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=556d64c0e68b10dc64d5c5d3650130f9}{%
+           family={Lin},
+           family_i={L\bibinitperiod},
+           given={Jay},
+           given_i={J\bibinitperiod}}}%
+        {{hash=309033725913a66f9ea0b5a9dbb465ae}{%
+           family={Siegartel},
+           family_i={S\bibinitperiod},
+           given={Lisa\bibnamedelima R},
+           given_i={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ae3a9acb76624d3eabf80faf94f52823}{%
+           family={Lingohr-Smith},
+           family_i={L\bibinithyphendelim S\bibinitperiod},
+           given={Melissa},
+           given_i={M\bibinitperiod}}}%
+        {{hash=a416820ea70b303e7a359d693860c4a5}{%
+           family={Menges},
+           family_i={M\bibinitperiod},
+           given={Brandy},
+           given_i={B\bibinitperiod}}}%
+        {{hash=1979886e98db6bb214b2690e4491b790}{%
+           family={Makenbaeva},
+           family_i={M\bibinitperiod},
+           given={Dinara},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{84fe703f0cdecf543219db1a7018f872}
+      \strng{fullhash}{a3d4de29b9250f5493a6cd6f304ce97c}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of medical economics}
+      \field{number}{9}
+      \field{title}{Evaluation of healthcare resource utilization and incremental economic burden of patients with chronic myeloid leukemia after disease progression to blast phase}
+      \field{volume}{20}
+      \field{year}{2017}
+      \field{pages}{1007\bibrangedash 1012}
+      \range{pages}{6}
+    \endentry
+    \entry{jabbour2017evaluation}{article}{}
+      \name{author}{6}{}{%
+        {{hash=97295a89154d1b261170aa88d2f2ddf1}{%
+           family={Jabbour},
+           family_i={J\bibinitperiod},
+           given={Elias\bibnamedelima J},
+           given_i={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=556d64c0e68b10dc64d5c5d3650130f9}{%
+           family={Lin},
+           family_i={L\bibinitperiod},
+           given={Jay},
+           given_i={J\bibinitperiod}}}%
+        {{hash=309033725913a66f9ea0b5a9dbb465ae}{%
+           family={Siegartel},
+           family_i={S\bibinitperiod},
+           given={Lisa\bibnamedelima R},
+           given_i={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ae3a9acb76624d3eabf80faf94f52823}{%
+           family={Lingohr-Smith},
+           family_i={L\bibinithyphendelim S\bibinitperiod},
+           given={Melissa},
+           given_i={M\bibinitperiod}}}%
+        {{hash=a416820ea70b303e7a359d693860c4a5}{%
+           family={Menges},
+           family_i={M\bibinitperiod},
+           given={Brandy},
+           given_i={B\bibinitperiod}}}%
+        {{hash=1979886e98db6bb214b2690e4491b790}{%
+           family={Makenbaeva},
+           family_i={M\bibinitperiod},
+           given={Dinara},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{84fe703f0cdecf543219db1a7018f872}
+      \strng{fullhash}{a3d4de29b9250f5493a6cd6f304ce97c}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of medical economics}
+      \field{number}{9}
+      \field{title}{Evaluation of healthcare resource utilization and incremental economic burden of patients with chronic myeloid leukemia after disease progression to blast phase}
+      \field{volume}{20}
+      \field{year}{2017}
+      \field{pages}{1007\bibrangedash 1012}
+      \range{pages}{6}
+    \endentry
+    \entry{experiment-affidabile-2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dc8ef51dcdc8ecc3527368771d1932f8}{%
+           family={Kereskai},
+           family_i={K\bibinitperiod},
+           given={László},
+           given_i={L\bibinitperiod}}}%
+        {{hash=c8010d3b95ead03cb4fba8706825d080}{%
+           family={Vass},
+           family_i={V\bibinitperiod},
+           given={János\bibnamedelima A},
+           given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e7f4e99b33fb4abc7611ef228c46eda6}{%
+           family={Kneif},
+           family_i={K\bibinitperiod},
+           given={Maria},
+           given_i={M\bibinitperiod}}}%
+        {{hash=67962ab32d038b5c8d583b3ef2d8f48f}{%
+           family={Pajor},
+           family_i={P\bibinitperiod},
+           given={László},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{bea2cca78062e12fb64662915c1bcdd1}
+      \strng{fullhash}{bc34ead8be18ec83c9791c0bd5368288}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pathology Oncology Research}
+      \field{number}{3}
+      \field{title}{Correlation between BCR-ABL expression and tumor burden is restricted to the transition from minor to major cytogenetic response in interferon treated CML patients}
+      \field{volume}{9}
+      \field{year}{2003}
+      \field{pages}{174\bibrangedash 179}
+      \range{pages}{6}
+    \endentry
+    \entry{kumari2012low}{article}{}
+      \name{author}{5}{}{%
+        {{hash=67a4b145d5ceb826da8ad47c9c639483}{%
+           family={Kumari},
+           family_i={K\bibinitperiod},
+           given={Ashu},
+           given_i={A\bibinitperiod}}}%
+        {{hash=e13b573ad0f41f1d65c769531fc133e5}{%
+           family={Brendel},
+           family_i={B\bibinitperiod},
+           given={Cornelia},
+           given_i={C\bibinitperiod}}}%
+        {{hash=5bfd0180f7db5bbc1b9920ce67251be0}{%
+           family={Hochhaus},
+           family_i={H\bibinitperiod},
+           given={Andreas},
+           given_i={A\bibinitperiod}}}%
+        {{hash=b25cac521e38b5d4385cd6d2a1e5bd55}{%
+           family={Neubauer},
+           family_i={N\bibinitperiod},
+           given={Andreas},
+           given_i={A\bibinitperiod}}}%
+        {{hash=cdec476efceffe3875ddc09c385b093c}{%
+           family={Burchert},
+           family_i={B\bibinitperiod},
+           given={Andreas},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{0dd814a5f805f3ffa02d53dc631cfacd}
+      \strng{fullhash}{0ab611cbbe180b4ea07bfcc158e33bb1}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{2}
+      \field{title}{Low BCR-ABL expression levels in hematopoietic precursor cells enable persistence of chronic myeloid leukemia under imatinib}
+      \field{volume}{119}
+      \field{year}{2012}
+      \field{pages}{530\bibrangedash 539}
+      \range{pages}{10}
+    \endentry
+    \entry{pk-imatinib-3}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e17ef2afbb966c75ff10a01dbf84f207}{%
+           family={Larson},
+           family_i={L\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=adf048f25cf78b9b7c7b798933bf13f9}{%
+           family={Druker},
+           family_i={D\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b59f32259d7ec029fe45effe8aebc400}{%
+           family={Guilhot},
+           family_i={G\bibinitperiod},
+           given={Francois},
+           given_i={F\bibinitperiod}}}%
+        {{hash=dc47261b242a1e89bf7c410bbcd23568}{%
+           family={O'Brien},
+           family_i={O\bibinitperiod},
+           given={Stephen\bibnamedelima G},
+           given_i={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f5ff2b7548d037f049b860b9ffa1d1d7}{%
+           family={Riviere},
+           family_i={R\bibinitperiod},
+           given={Gilles\bibnamedelima J},
+           given_i={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a564f3fb6c0064db9568b74b39081dd4}{%
+           family={Krahnke},
+           family_i={K\bibinitperiod},
+           given={Tillmann},
+           given_i={T\bibinitperiod}}}%
+        {{hash=a13b1482f6a9daa9d203c3e5605191db}{%
+           family={Gathmann},
+           family_i={G\bibinitperiod},
+           given={Insa},
+           given_i={I\bibinitperiod}}}%
+        {{hash=b5b3a5c892da0161ccfb138059007bb8}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Yanfeng},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{b4bdf4e9cecdc5b2b768000e756308ba}
+      \strng{fullhash}{46750ef953f053e827a8a2d4933020b5}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{8}
+      \field{title}{Imatinib pharmacokinetics and its correlation with response and safety in chronic-phase chronic myeloid leukemia: a subanalysis of the IRIS study}
+      \field{volume}{111}
+      \field{year}{2008}
+      \field{pages}{4022\bibrangedash 4028}
+      \range{pages}{7}
+    \endentry
+    \entry{latham2016bcr}{article}{}
+      \name{author}{9}{}{%
+        {{hash=8cefe81e601f500b2607752705409adf}{%
+           family={Latham},
+           family_i={L\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=6114282b671a254bbf1a5b86639e2c9e}{%
+           family={Bartley},
+           family_i={B\bibinitperiod},
+           given={Paul\bibnamedelima A},
+           given_i={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=debbacbb7c5152781f2ee77d08cdf32a}{%
+           family={Budgen},
+           family_i={B\bibinitperiod},
+           given={Bradley},
+           given_i={B\bibinitperiod}}}%
+        {{hash=74ff8be42ffb4b0b72011b3bff36f42f}{%
+           family={Ross},
+           family_i={R\bibinitperiod},
+           given={David\bibnamedelima M},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e2e570eb7a5deb5948ee0b24428970c8}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Elizabeth},
+           given_i={E\bibinitperiod}}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{%
+           family={Branford},
+           family_i={B\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=aa37794c402f33038e1bcb585654d47b}{%
+           family={White},
+           family_i={W\bibinitperiod},
+           given={Deborah},
+           given_i={D\bibinitperiod}}}%
+        {{hash=63b2c8907fde3cadc5ebe95bca0cf58e}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy\bibnamedelima P},
+           given_i={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=1a8685e70054b9fe7da859fa690ff412}{%
+           family={Morley},
+           family_i={M\bibinitperiod},
+           given={Alexander\bibnamedelima A},
+           given_i={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group}%
+      }
+      \strng{namehash}{d0a61eebf199b6a90e00d857fa20f7f4}
+      \strng{fullhash}{c21f725e3bcf1aed89e4d0492b41330a}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of clinical pathology}
+      \field{title}{BCR-ABL1 expression, RT-qPCR and treatment decisions in chronic myeloid leukaemia}
+      \field{year}{2016}
+      \field{pages}{jclinpath\bibrangedash 2015}
+      \range{pages}{-1}
+    \endentry
+    \entry{layton1989evidence}{article}{}
+      \name{author}{4}{}{%
+        {{hash=05560113b26043d4dff7d8640e6ca829}{%
+           family={Layton},
+           family_i={L\bibinitperiod},
+           given={Judith\bibnamedelima E},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=652b92a08400c90538bb1ba8e2bb78eb}{%
+           family={Hockman},
+           family_i={H\bibinitperiod},
+           given={Helen},
+           given_i={H\bibinitperiod}}}%
+        {{hash=2c6ba863024a0b77fc862a879db1c489}{%
+           family={Sheridan},
+           family_i={S\bibinitperiod},
+           given={William\bibnamedelima P},
+           given_i={W\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c9f9a765a823d7cf24a3bb17a3489eef}{%
+           family={Morstyn},
+           family_i={M\bibinitperiod},
+           given={George},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{6c266c09b925984e7d814999c56f072b}
+      \strng{fullhash}{1074373ec1ac0d074bf8c5e7a7490038}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{4}
+      \field{title}{Evidence for a novel in vivo control mechanism of granulopoiesis: mature cell-related control of a regulatory growth factor}
+      \field{volume}{74}
+      \field{year}{1989}
+      \field{pages}{1303\bibrangedash 1307}
+      \range{pages}{5}
+    \endentry
+    \entry{chapman-book}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7b7a4997616ec2b9584e91fcf730f95e}{%
+           family={Lenhart},
+           family_i={L\bibinitperiod},
+           given={Suzanne},
+           given_i={S\bibinitperiod}}}%
+        {{hash=5a9a3e5e30a360e1402ddf7a86f12216}{%
+           family={Workman},
+           family_i={W\bibinitperiod},
+           given={John\bibnamedelima T},
+           given_i={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crc Press}%
+      }
+      \strng{namehash}{070e943a4aa54493fd841dd714a23227}
+      \strng{fullhash}{070e943a4aa54493fd841dd714a23227}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optimal control applied to biological models}
+      \field{year}{2007}
+    \endentry
+    \entry{pk-imatinib-1}{article}{}
+      \name{author}{2}{}{%
+        {{hash=129de9e4d49cc7aede504f6e5baac5f4}{%
+           family={Leveque},
+           family_i={L\bibinitperiod},
+           given={Dominique},
+           given_i={D\bibinitperiod}}}%
+        {{hash=46b5f9b5017f121caa1c93dd7cae9e75}{%
+           family={Maloisel},
+           family_i={M\bibinitperiod},
+           given={Frédéric},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Institute of Anticancer Research}%
+      }
+      \strng{namehash}{769a9f988ff238ce841ab7f19ac991b5}
+      \strng{fullhash}{769a9f988ff238ce841ab7f19ac991b5}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{in vivo}
+      \field{number}{1}
+      \field{title}{Clinical pharmacokinetics of imatinib mesylate}
+      \field{volume}{19}
+      \field{year}{2005}
+      \field{pages}{77\bibrangedash 84}
+      \range{pages}{8}
+    \endentry
+    \entry{experiment-affidabile-3}{article}{}
+      \name{author}{7}{}{%
+        {{hash=672267a531c36ad51da38d87c730e5df}{%
+           family={Lion},
+           family_i={L\bibinitperiod},
+           given={T},
+           given_i={T\bibinitperiod}}}%
+        {{hash=aac5318791d65f3e9365483e921590e1}{%
+           family={Gaiger},
+           family_i={G\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=233887519923862438902893232f25ee}{%
+           family={Henn},
+           family_i={H\bibinitperiod},
+           given={T},
+           given_i={T\bibinitperiod}}}%
+        {{hash=d0b31c5c0bae905df2c9bc63052832b9}{%
+           family={Hörth},
+           family_i={H\bibinitperiod},
+           given={E},
+           given_i={E\bibinitperiod}}}%
+        {{hash=e58ea7f71b07189c6d39a55615648f0e}{%
+           family={Haas},
+           family_i={H\bibinitperiod},
+           given={OA},
+           given_i={O\bibinitperiod}}}%
+        {{hash=292411264aea8499f9ec9364d0ecaf31}{%
+           family={Geissler},
+           family_i={G\bibinitperiod},
+           given={K},
+           given_i={K\bibinitperiod}}}%
+        {{hash=2be88f6919e8de2a59ee7cff5f232667}{%
+           family={Gadner},
+           family_i={G\bibinitperiod},
+           given={H},
+           given_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0df8deff462e657821ed9a1ed529bd06}
+      \strng{fullhash}{a655a9e45f57a87e77abc756ac8bd8d7}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leukemia}
+      \field{number}{8}
+      \field{title}{Use of quantitative polymerase chain reaction to monitor residual disease in chronic myelogenous leukemia during treatment with interferon.}
+      \field{volume}{9}
+      \field{year}{1995}
+      \field{pages}{1353\bibrangedash 1360}
+      \range{pages}{8}
+    \endentry
+    \entry{mahon2010discontinuation}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=879e512275dc6e8588abcc643fe6dc35}{%
+           family={Mahon},
+           family_i={M\bibinitperiod},
+           given={François-Xavier},
+           given_i={F\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=6228e6b6b1df1edaa2432243f9f05a62}{%
+           family={Réa},
+           family_i={R\bibinitperiod},
+           given={Delphine},
+           given_i={D\bibinitperiod}}}%
+        {{hash=41cb818da03242c775bcc8700b10bd51}{%
+           family={Guilhot},
+           family_i={G\bibinitperiod},
+           given={Joëlle},
+           given_i={J\bibinitperiod}}}%
+        {{hash=61d34a774c5037225dbd74b76d502045}{%
+           family={Guilhot},
+           family_i={G\bibinitperiod},
+           given={François},
+           given_i={F\bibinitperiod}}}%
+        {{hash=0e14a44013c9838f925a64deef1403ef}{%
+           family={Huguet},
+           family_i={H\bibinitperiod},
+           given={Françoise},
+           given_i={F\bibinitperiod}}}%
+        {{hash=60de7ce61fbcf16d94a8b9a5e892c3fc}{%
+           family={Nicolini},
+           family_i={N\bibinitperiod},
+           given={Franck},
+           given_i={F\bibinitperiod}}}%
+        {{hash=72db5b10146021ce50a87216dee1e516}{%
+           family={Legros},
+           family_i={L\bibinitperiod},
+           given={Laurence},
+           given_i={L\bibinitperiod}}}%
+        {{hash=ab8f1665f254b21e6ce6cd660744769a}{%
+           family={Charbonnier},
+           family_i={C\bibinitperiod},
+           given={Aude},
+           given_i={A\bibinitperiod}}}%
+        {{hash=01c673e93aa82ffb2ca6381f2586ba01}{%
+           family={Guerci},
+           family_i={G\bibinitperiod},
+           given={Agnès},
+           given_i={A\bibinitperiod}}}%
+        {{hash=8f528cff086e6fa914cab756fb670f5a}{%
+           family={Varet},
+           family_i={V\bibinitperiod},
+           given={Bruno},
+           given_i={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0b5527bef13757f88cf1f0bcbb67c98b}
+      \strng{fullhash}{dc69d809d6424148058950c4df715a48}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The lancet oncology}
+      \field{number}{11}
+      \field{title}{Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained complete molecular remission for at least 2 years: the prospective, multicentre Stop Imatinib (STIM) trial}
+      \field{volume}{11}
+      \field{year}{2010}
+      \field{pages}{1029\bibrangedash 1035}
+      \range{pages}{7}
+    \endentry
+    \entry{marciniak2013mathematical}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=e3d0db70dbef160b7a38fd7c643466f0}{%
+           family={Marciniak-Czochra},
+           family_i={M\bibinithyphendelim C\bibinitperiod},
+           given={Anna},
+           given_i={A\bibinitperiod}}}%
+        {{hash=86c837ccea0a20d1bfb8ad4ec97ff18e}{%
+           family={Stiehl},
+           family_i={S\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1f9945b652b199a8e2db1309955e60be}
+      \strng{fullhash}{1f9945b652b199a8e2db1309955e60be}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Model Based Parameter Estimation}
+      \field{title}{Mathematical models of hematopoietic reconstitution after stem cell transplantation}
+      \field{year}{2013}
+      \field{pages}{191\bibrangedash 206}
+      \range{pages}{16}
+    \endentry
+    \entry{czochra}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e3d0db70dbef160b7a38fd7c643466f0}{%
+           family={Marciniak-Czochra},
+           family_i={M\bibinithyphendelim C\bibinitperiod},
+           given={Anna},
+           given_i={A\bibinitperiod}}}%
+        {{hash=86c837ccea0a20d1bfb8ad4ec97ff18e}{%
+           family={Stiehl},
+           family_i={S\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{hash=2f7ce3292eb332391256580df071784f}{%
+           family={Ho},
+           family_i={H\bibinitperiod},
+           given={Anthony\bibnamedelima D},
+           given_i={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ec026eb20fd9a6320141799a8ccbfefc}{%
+           family={Jäger},
+           family_i={J\bibinitperiod},
+           given={Willi},
+           given_i={W\bibinitperiod}}}%
+        {{hash=7a02bdf7e987a1bc2a968972d1093581}{%
+           family={Wagner},
+           family_i={W\bibinitperiod},
+           given={Wolfgang},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mary Ann Liebert, Inc. publishers 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801-5215 USA}%
+      }
+      \strng{namehash}{4279e021f058e27c814c9498dc16a275}
+      \strng{fullhash}{0979b6d31ed1aaee7fd88d927069b45c}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stem cells and development}
+      \field{number}{3}
+      \field{title}{Modeling of asymmetric cell division in hematopoietic stem cells—regulation of self-renewal is essential for efficient repopulation}
+      \field{volume}{18}
+      \field{year}{2009}
+      \field{pages}{377\bibrangedash 386}
+      \range{pages}{10}
+    \endentry
+    \entry{massimino2018non}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=542c62f9cf2987b4398dd60087af0a9d}{%
+           family={Massimino},
+           family_i={M\bibinitperiod},
+           given={Michele},
+           given_i={M\bibinitperiod}}}%
+        {{hash=4649786f748f363cdafb9dff0bbea802}{%
+           family={Stella},
+           family_i={S\bibinitperiod},
+           given={Stefania},
+           given_i={S\bibinitperiod}}}%
+        {{hash=208211e0d5a71707b5bb2b734b00a306}{%
+           family={Tirrò},
+           family_i={T\bibinitperiod},
+           given={Elena},
+           given_i={E\bibinitperiod}}}%
+        {{hash=af2c6443f531c0541194f99ce1f4b2b3}{%
+           family={Romano},
+           family_i={R\bibinitperiod},
+           given={Chiara},
+           given_i={C\bibinitperiod}}}%
+        {{hash=1c67115096d52eccad2bb60e7703533f}{%
+           family={Pennisi},
+           family_i={P\bibinitperiod},
+           given={Maria\bibnamedelima Stella},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=14dd675189fc8aea685768961999360b}{%
+           family={Puma},
+           family_i={P\bibinitperiod},
+           given={Adriana},
+           given_i={A\bibinitperiod}}}%
+        {{hash=89b9acd4f2dc8ed8dd8e1a3ebcb65d18}{%
+           family={Manzella},
+           family_i={M\bibinitperiod},
+           given={Livia},
+           given_i={L\bibinitperiod}}}%
+        {{hash=417295f34a1ba1ae5a91d6355e2f69af}{%
+           family={Zanghı̀},
+           family_i={Z\bibinitperiod},
+           given={Antonino},
+           given_i={A\bibinitperiod}}}%
+        {{hash=e297a10d832773a9a46bcd5be7eda433}{%
+           family={Stagno},
+           family_i={S\bibinitperiod},
+           given={Fabio},
+           given_i={F\bibinitperiod}}}%
+        {{hash=1306bca7ffa26ba1123b373469ae6671}{%
+           family={Di\bibnamedelima Raimondo},
+           family_i={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Francesco},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{af56760f7a32af5cb1be099cf67af062}
+      \strng{fullhash}{1381b14cfb7c3065783740d089debb00}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular cancer}
+      \field{number}{1}
+      \field{title}{Non ABL-directed inhibitors as alternative treatment strategies for chronic myeloid leukemia}
+      \field{volume}{17}
+      \field{year}{2018}
+      \field{pages}{56}
+      \range{pages}{1}
+    \endentry
+    \entry{metcalf2008hematopoietic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=84a0ecfca67ef2f88d5b6bbfa7ede75b}{%
+           family={Metcalf},
+           family_i={M\bibinitperiod},
+           given={Donald},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{84a0ecfca67ef2f88d5b6bbfa7ede75b}
+      \strng{fullhash}{84a0ecfca67ef2f88d5b6bbfa7ede75b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{2}
+      \field{title}{Hematopoietic cytokines}
+      \field{volume}{111}
+      \field{year}{2008}
+      \field{pages}{485\bibrangedash 491}
+      \range{pages}{7}
+    \endentry
+    \entry{michor2005}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{%
+           family={Michor},
+           family_i={M\bibinitperiod},
+           given={Franziska},
+           given_i={F\bibinitperiod}}}%
+        {{hash=63b2c8907fde3cadc5ebe95bca0cf58e}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy\bibnamedelima P},
+           given_i={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=fdfb5695fc02c2960e04bd62ea3bb310}{%
+           family={Iwasa},
+           family_i={I\bibinitperiod},
+           given={Yoh},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{%
+           family={Branford},
+           family_i={B\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=09d68d1fdd85e495ccf25e270b1f2023}{%
+           family={Shah},
+           family_i={S\bibinitperiod},
+           given={Neil\bibnamedelima P},
+           given_i={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f22edf6d53eef45e28e683b05a6365ea}{%
+           family={Sawyers},
+           family_i={S\bibinitperiod},
+           given={Charles\bibnamedelima L},
+           given_i={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=20ee2b5f3b2f239906c62cf922fe1822}{%
+           family={Nowak},
+           family_i={N\bibinitperiod},
+           given={Martin\bibnamedelima A},
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ae9bff4896a9d55ee8b3da9fbcdbe2e2}
+      \strng{fullhash}{3a4b0d9bfc5b8eef4d6089f6a86c3125}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7046}
+      \field{title}{Dynamics of chronic myeloid leukaemia}
+      \field{volume}{435}
+      \field{year}{2005}
+      \field{pages}{1267}
+      \range{pages}{1}
+    \endentry
+    \entry{miller2000haber}{article}{}
+      \name{author}{3}{}{%
+        {{hash=15d4a18490056be5b55df49efcff04c1}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={Frederick\bibnamedelima J},
+           given_i={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d711bd2398b03ecdf1ab2d6d3d85bac7}{%
+           family={Schlosser},
+           family_i={S\bibinitperiod},
+           given={Paul\bibnamedelima M},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=dc9ee155d4db1598fb7f1455e81b9457}{%
+           family={Janszen},
+           family_i={J\bibinitperiod},
+           given={Derek\bibnamedelima B},
+           given_i={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0a8a99bc4280cf9b17f32eed74593a6c}
+      \strng{fullhash}{0a8a99bc4280cf9b17f32eed74593a6c}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Toxicology}
+      \field{number}{1}
+      \field{title}{Haber’s rule: a special case in a family of curves relating concentration and duration of exposure to a fixed level of response for a given endpoint}
+      \field{volume}{149}
+      \field{year}{2000}
+      \field{pages}{21\bibrangedash 34}
+      \range{pages}{14}
+    \endentry
+    \entry{moore2004mathematical}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a9a35fc80a5bb2a62cff332b86bdb3e}{%
+           family={Moore},
+           family_i={M\bibinitperiod},
+           given={Helen},
+           given_i={H\bibinitperiod}}}%
+        {{hash=dabdc2cf694cc88f4d60a3f53d11ca24}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Natasha\bibnamedelima K},
+           given_i={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a35ae94a21961e80881202b3bacf2944}
+      \strng{fullhash}{a35ae94a21961e80881202b3bacf2944}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of theoretical biology}
+      \field{number}{4}
+      \field{title}{A mathematical model for chronic myelogenous leukemia (CML) and T cell interaction}
+      \field{volume}{227}
+      \field{year}{2004}
+      \field{pages}{513\bibrangedash 523}
+      \range{pages}{11}
+    \endentry
+    \entry{mughal2006molecularly}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6475515377847322c0920ea9eb7ab7a5}{%
+           family={Mughal},
+           family_i={M\bibinitperiod},
+           given={Tariq\bibnamedelima I},
+           given_i={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=427a045196f79ed8edab70f436742ade}{%
+           family={Goldman},
+           family_i={G\bibinitperiod},
+           given={John\bibnamedelima M},
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5550965017815f71345b58eb3270190}
+      \strng{fullhash}{c5550965017815f71345b58eb3270190}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Front Biosci}
+      \field{title}{Molecularly targeted treatment of chronic myeloid leukemia: beyond the imatinib era}
+      \field{volume}{11}
+      \field{year}{2006}
+      \field{pages}{209\bibrangedash 220}
+      \range{pages}{12}
+    \endentry
+    \entry{mughal2010principal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6475515377847322c0920ea9eb7ab7a5}{%
+           family={Mughal},
+           family_i={M\bibinitperiod},
+           given={Tariq\bibnamedelima I},
+           given_i={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=4253a379f9834274c02306b44f8482e5}{%
+           family={Schrieber},
+           family_i={S\bibinitperiod},
+           given={Andrew},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dove Press}%
+      }
+      \strng{namehash}{e422d18f527aed91fb82487d45320d03}
+      \strng{fullhash}{e422d18f527aed91fb82487d45320d03}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biologics: targets \& therapy}
+      \field{title}{Principal long-term adverse effects of imatinib in patients with chronic myeloid leukemia in chronic phase}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{315}
+      \range{pages}{1}
+    \endentry
+    \entry{nanda2007optimal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=77c97ddec36b1a7280e35473d9603d42}{%
+           family={Nanda},
+           family_i={N\bibinitperiod},
+           given={Seema},
+           given_i={S\bibinitperiod}}}%
+        {{hash=0a9a35fc80a5bb2a62cff332b86bdb3e}{%
+           family={Moore},
+           family_i={M\bibinitperiod},
+           given={Helen},
+           given_i={H\bibinitperiod}}}%
+        {{hash=7b7a4997616ec2b9584e91fcf730f95e}{%
+           family={Lenhart},
+           family_i={L\bibinitperiod},
+           given={Suzanne},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3139dccb669b976c763c80329c201bd9}
+      \strng{fullhash}{3139dccb669b976c763c80329c201bd9}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical biosciences}
+      \field{number}{1}
+      \field{title}{Optimal control of treatment in a mathematical model of chronic myelogenous leukemia}
+      \field{volume}{210}
+      \field{year}{2007}
+      \field{pages}{143\bibrangedash 156}
+      \range{pages}{14}
+    \endentry
+    \entry{olshen2014dynamics}{article}{}
+      \name{author}{8}{}{%
+        {{hash=59784d8106e78060c530f6d0bf34708e}{%
+           family={Olshen},
+           family_i={O\bibinitperiod},
+           given={Adam},
+           given_i={A\bibinitperiod}}}%
+        {{hash=b37397cebb5f6ed290b9677788c6cc61}{%
+           family={Tang},
+           family_i={T\bibinitperiod},
+           given={Min},
+           given_i={M\bibinitperiod}}}%
+        {{hash=412d4171bd8e479affe9414a6da54a45}{%
+           family={Cortes},
+           family_i={C\bibinitperiod},
+           given={Jorge},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d690317d4e1ec56810e4289828b475ae}{%
+           family={Gonen},
+           family_i={G\bibinitperiod},
+           given={Mithat},
+           given_i={M\bibinitperiod}}}%
+        {{hash=257fcd921b95c9c95aa38a6443b81bef}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy},
+           given_i={T\bibinitperiod}}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{%
+           family={Branford},
+           family_i={B\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=396f436b33382f72d4fb06a149104fc3}{%
+           family={Quintás-Cardama},
+           family_i={Q\bibinithyphendelim C\bibinitperiod},
+           given={Alfonso},
+           given_i={A\bibinitperiod}}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{%
+           family={Michor},
+           family_i={M\bibinitperiod},
+           given={Franziska},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haematologica}%
+      }
+      \strng{namehash}{e36b786b7bc2e79cad18fc8957ff19de}
+      \strng{fullhash}{cc02c72b3c61b7ccd4df586575ba36ed}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{haematologica}
+      \field{title}{Dynamics of chronic myeloid leukemia response to dasatinib, nilotinib, and high-dose imatinib}
+      \field{year}{2014}
+      \field{pages}{haematol\bibrangedash 2013}
+      \range{pages}{-1}
+    \endentry
+    \entry{pk-imatinib-2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e7ff4afa93228a7efc93927edd8bba7f}{%
+           family={Peng},
+           family_i={P\bibinitperiod},
+           given={Bin},
+           given_i={B\bibinitperiod}}}%
+        {{hash=28073c62d052c923bf85c71b89bb0c0d}{%
+           family={Lloyd},
+           family_i={L\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{hash=859f1d513bb4077c897c368284b03f87}{%
+           family={Schran},
+           family_i={S\bibinitperiod},
+           given={Horst},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e7b43c7190be4dc2e419c7293ef8b9bb}
+      \strng{fullhash}{e7b43c7190be4dc2e419c7293ef8b9bb}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical pharmacokinetics}
+      \field{number}{9}
+      \field{title}{Clinical pharmacokinetics of imatinib}
+      \field{volume}{44}
+      \field{year}{2005}
+      \field{pages}{879\bibrangedash 894}
+      \range{pages}{16}
+    \endentry
+    \entry{quintas2009dynamics}{article}{}
+      \name{author}{8}{}{%
+        {{hash=396f436b33382f72d4fb06a149104fc3}{%
+           family={Quintás-Cardama},
+           family_i={Q\bibinithyphendelim C\bibinitperiod},
+           given={Alfonso},
+           given_i={A\bibinitperiod}}}%
+        {{hash=1bc95cdc8a244c21f782994bf1109cad}{%
+           family={De\bibnamedelima Souza\bibnamedelima Santos},
+           family_i={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Fabio\bibnamedelima Pires},
+           given_i={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c714f12cd432200480a5ffee9b55a92d}{%
+           family={Kantarjian},
+           family_i={K\bibinitperiod},
+           given={Hagop},
+           given_i={H\bibinitperiod}}}%
+        {{hash=0c9ff18600334fb2a2f816de1a0f447b}{%
+           family={O'brien},
+           family_i={O\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=0e8b1956f8e9758591f67e4a9b1d83eb}{%
+           family={Faderl},
+           family_i={F\bibinitperiod},
+           given={Stefan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=2c9708fc015326afd104d963904b8bdf}{%
+           family={Awais},
+           family_i={A\bibinitperiod},
+           given={Ahmed},
+           given_i={A\bibinitperiod}}}%
+        {{hash=92ea17334ee5d427ea7abdfd395c5350}{%
+           family={Borthakur},
+           family_i={B\bibinitperiod},
+           given={Gautam},
+           given_i={G\bibinitperiod}}}%
+        {{hash=412d4171bd8e479affe9414a6da54a45}{%
+           family={Cortes},
+           family_i={C\bibinitperiod},
+           given={Jorge},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{2af65944455c5266a4facba3f2c0878c}
+      \strng{fullhash}{9528ac66ae697e68424aa1f09a540e03}
+      \field{sortinit}{Q}
+      \field{sortinithash}{15867262911a166ca2270ec58a0e3fe9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancer}
+      \field{number}{17}
+      \field{title}{Dynamics and management of cytopenias associated with dasatinib therapy in patients with chronic myeloid leukemia in chronic phase after imatinib failure}
+      \field{volume}{115}
+      \field{year}{2009}
+      \field{pages}{3935\bibrangedash 3943}
+      \range{pages}{9}
+    \endentry
+    \entry{rainero2018gdna}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=4224b1c698a10065c076cc7a4bb9829f}{%
+           family={Rainero},
+           family_i={R\bibinitperiod},
+           given={Alessia},
+           given_i={A\bibinitperiod}}}%
+        {{hash=530915483c8acb0da764eeb86a8a9c3f}{%
+           family={Angaroni},
+           family_i={A\bibinitperiod},
+           given={Fabrizio},
+           given_i={F\bibinitperiod}}}%
+        {{hash=2941b8b6aa48e79c779b85be733cdd05}{%
+           family={Conti},
+           family_i={C\bibinitperiod},
+           given={Andrea},
+           given_i={A\bibinitperiod}}}%
+        {{hash=4a59e91a34678d2a9452b06ff8fed458}{%
+           family={Pirrone},
+           family_i={P\bibinitperiod},
+           given={Cristina},
+           given_i={C\bibinitperiod}}}%
+        {{hash=81153b390ebb0d6f9b9d503e13f42fb0}{%
+           family={Micheloni},
+           family_i={M\bibinitperiod},
+           given={Giovanni},
+           given_i={G\bibinitperiod}}}%
+        {{hash=eae28b2eae34c14a8d5bbe3925223582}{%
+           family={Tararà},
+           family_i={T\bibinitperiod},
+           given={Lucia},
+           given_i={L\bibinitperiod}}}%
+        {{hash=8b93abc2aa16927508b3b65a21de837f}{%
+           family={Millefanti},
+           family_i={M\bibinitperiod},
+           given={Giorgia},
+           given_i={G\bibinitperiod}}}%
+        {{hash=0055c754f709a15b3877a3f7565b88c4}{%
+           family={Maserati},
+           family_i={M\bibinitperiod},
+           given={Emanuela},
+           given_i={E\bibinitperiod}}}%
+        {{hash=9376995ad036cd6175db786ecb7892a5}{%
+           family={Valli},
+           family_i={V\bibinitperiod},
+           given={Roberto},
+           given_i={R\bibinitperiod}}}%
+        {{hash=9b1a22d1a585d7f04d95e728e2ba703a}{%
+           family={Spinelli},
+           family_i={S\bibinitperiod},
+           given={Orietta},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{fde7a316003c1ee5903bd57d307db421}
+      \strng{fullhash}{ba196e512155ca431278e03425c7415c}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell death \& disease}
+      \field{number}{3}
+      \field{title}{gDNA qPCR is statistically more reliable than mRNA analysis in detecting leukemic cells to monitor CML}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{349}
+      \range{pages}{1}
+    \endentry
+    \entry{stiehl2018mathematical}{article}{}
+      \name{author}{3}{}{%
+        {{hash=86c837ccea0a20d1bfb8ad4ec97ff18e}{%
+           family={Stiehl},
+           family_i={S\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{hash=2f7ce3292eb332391256580df071784f}{%
+           family={Ho},
+           family_i={H\bibinitperiod},
+           given={Anthony\bibnamedelima D},
+           given_i={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e3d0db70dbef160b7a38fd7c643466f0}{%
+           family={Marciniak-Czochra},
+           family_i={M\bibinithyphendelim C\bibinitperiod},
+           given={Anna},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{aa4a3ba3548be6010ab39ee5e9d6ae51}
+      \strng{fullhash}{aa4a3ba3548be6010ab39ee5e9d6ae51}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{number}{1}
+      \field{title}{Mathematical modeling of the impact of cytokine response of acute myeloid leukemia cells on patient prognosis}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{2809}
+      \range{pages}{1}
+    \endentry
+    \entry{stiehl2012mathematical}{article}{}
+      \name{author}{2}{}{%
+        {{hash=86c837ccea0a20d1bfb8ad4ec97ff18e}{%
+           family={Stiehl},
+           family_i={S\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{hash=e3d0db70dbef160b7a38fd7c643466f0}{%
+           family={Marciniak-Czochra},
+           family_i={M\bibinithyphendelim C\bibinitperiod},
+           given={Anna},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {EDP Sciences}%
+      }
+      \strng{namehash}{b9f76a83b89145fcc8bb9c20530aa26f}
+      \strng{fullhash}{b9f76a83b89145fcc8bb9c20530aa26f}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Modelling of Natural Phenomena}
+      \field{number}{1}
+      \field{title}{Mathematical modeling of leukemogenesis and cancer stem cell dynamics}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{pages}{166\bibrangedash 202}
+      \range{pages}{37}
+    \endentry
+    \entry{talpaz2018dasatinib}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c35a3fbc1bf6528c77e1b61ae7f77709}{%
+           family={Talpaz},
+           family_i={T\bibinitperiod},
+           given={Moshe},
+           given_i={M\bibinitperiod}}}%
+        {{hash=fdaa93b96ffc1ff0a07bd125fdbfd58c}{%
+           family={Saglio},
+           family_i={S\bibinitperiod},
+           given={Giuseppe},
+           given_i={G\bibinitperiod}}}%
+        {{hash=dc32e40569164e7dff45fba077306cbb}{%
+           family={Atallah},
+           family_i={A\bibinitperiod},
+           given={Ehab},
+           given_i={E\bibinitperiod}}}%
+        {{hash=248c0b268869ab634ff1cba768faae36}{%
+           family={Rousselot},
+           family_i={R\bibinitperiod},
+           given={Philippe},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{39c5802d2e6fdca3ce7ba0659d359cda}
+      \strng{fullhash}{e795ac3a850482452a37e6e10258f682}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancer}
+      \field{title}{Dasatinib dose management for the treatment of chronic myeloid leukemia}
+      \field{year}{2018}
+    \endentry
+    \entry{tang2011dynamics}{article}{}
+      \name{author}{9}{}{%
+        {{hash=b37397cebb5f6ed290b9677788c6cc61}{%
+           family={Tang},
+           family_i={T\bibinitperiod},
+           given={Min},
+           given_i={M\bibinitperiod}}}%
+        {{hash=d690317d4e1ec56810e4289828b475ae}{%
+           family={Gonen},
+           family_i={G\bibinitperiod},
+           given={Mithat},
+           given_i={M\bibinitperiod}}}%
+        {{hash=b5e71618ce6128f2c12be7dd6437550d}{%
+           family={Quintas-Cardama},
+           family_i={Q\bibinithyphendelim C\bibinitperiod},
+           given={Alfonso},
+           given_i={A\bibinitperiod}}}%
+        {{hash=412d4171bd8e479affe9414a6da54a45}{%
+           family={Cortes},
+           family_i={C\bibinitperiod},
+           given={Jorge},
+           given_i={J\bibinitperiod}}}%
+        {{hash=c714f12cd432200480a5ffee9b55a92d}{%
+           family={Kantarjian},
+           family_i={K\bibinitperiod},
+           given={Hagop},
+           given_i={H\bibinitperiod}}}%
+        {{hash=91238bff3dddfdb74fbce76d58fcedc6}{%
+           family={Field},
+           family_i={F\bibinitperiod},
+           given={Chani},
+           given_i={C\bibinitperiod}}}%
+        {{hash=63b2c8907fde3cadc5ebe95bca0cf58e}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy\bibnamedelima P},
+           given_i={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{%
+           family={Branford},
+           family_i={B\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=9d9e35b29002d128ad9fe36ab6636cdb}{%
+           family={Michor},
+           family_i={M\bibinitperiod},
+           given={Franziska},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Hematology}%
+      }
+      \strng{namehash}{339f17eaa4a5e1e93bf3e533c5224764}
+      \strng{fullhash}{4f49afd452a4f912a9d6c551917ed446}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blood}
+      \field{number}{6}
+      \field{title}{Dynamics of chronic myeloid leukemia response to long-term targeted therapy reveal treatment effects on leukemic stem cells}
+      \field{volume}{118}
+      \field{year}{2011}
+      \field{pages}{1622\bibrangedash 1631}
+      \range{pages}{10}
+    \endentry
+    \entry{tannenbaum2018control}{article}{}
+      \name{author}{4}{}{%
+        {{hash=22970b802205714c5938dbc2a03214bb}{%
+           family={Tannenbaum},
+           family_i={T\bibinitperiod},
+           given={Allen\bibnamedelima R},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b9637db848f1453c3d4c20ffeaf111aa}{%
+           family={Georgiou},
+           family_i={G\bibinitperiod},
+           given={Tryphon},
+           given_i={T\bibinitperiod}}}%
+        {{hash=0a2ef26dc513d750769bdc5aff1a4ac0}{%
+           family={Deasy},
+           family_i={D\bibinitperiod},
+           given={Joseph},
+           given_i={J\bibinitperiod}}}%
+        {{hash=044f29f8954f00619d946974ef354239}{%
+           family={Norton},
+           family_i={N\bibinitperiod},
+           given={Larry},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{9dea9e0a0c968f2180f4456a06f396d3}
+      \strng{fullhash}{97ec361a7b815de222d4803463edd8b3}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Control and the Analysis of Cancer Growth Models}
+      \field{year}{2018}
+      \field{pages}{244301}
+      \range{pages}{1}
+    \endentry
+    \entry{experiment-affidabile-1}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=c02aa3f2428ddc0d638f2ef21dca360d}{%
+           family={Tchirkov},
+           family_i={T\bibinitperiod},
+           given={Andrei},
+           given_i={A\bibinitperiod}}}%
+        {{hash=3af8ae7ccfe2d9c22e51e8ba92d041d4}{%
+           family={Giollant},
+           family_i={G\bibinitperiod},
+           given={Michel},
+           given_i={M\bibinitperiod}}}%
+        {{hash=d1e3c118671c3974a180e25a255f0534}{%
+           family={Tavernier},
+           family_i={T\bibinitperiod},
+           given={FranÇoise},
+           given_i={F\bibinitperiod}}}%
+        {{hash=8fc2b9cfa3dc82953815319fced707fa}{%
+           family={BrianÇon},
+           family_i={B\bibinitperiod},
+           given={Georges},
+           given_i={G\bibinitperiod}}}%
+        {{hash=ef0e7e72dffa1db09e89311ff052c585}{%
+           family={Tournilhac},
+           family_i={T\bibinitperiod},
+           given={Olivier},
+           given_i={O\bibinitperiod}}}%
+        {{hash=6b3a1f36eace51d1b5c97178522d4c1c}{%
+           family={Kwiatkowski},
+           family_i={K\bibinitperiod},
+           given={Fabrice},
+           given_i={F\bibinitperiod}}}%
+        {{hash=f8907048088d09e12687753b6c1eeffe}{%
+           family={Philippe},
+           family_i={P\bibinitperiod},
+           given={Pierre},
+           given_i={P\bibinitperiod}}}%
+        {{hash=d172fc49fe6428b392a371f51cae290e}{%
+           family={Choufi},
+           family_i={C\bibinitperiod},
+           given={Bachra},
+           given_i={B\bibinitperiod}}}%
+        {{hash=af03f6dcdc68b8318eff38888613c5d4}{%
+           family={DemÉocq},
+           family_i={D\bibinitperiod},
+           given={FranÇois},
+           given_i={F\bibinitperiod}}}%
+        {{hash=b3a361c9162aa6f8e28945cd4578f386}{%
+           family={Travade},
+           family_i={T\bibinitperiod},
+           given={Philippe},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{be3acbe6b757f196511adc6f8385dcb3}
+      \strng{fullhash}{906a33b2bd5987b8876032f57eff668a}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British journal of haematology}
+      \field{number}{3}
+      \field{title}{Interphase cytogenetics and competitive RT-PCR for residual disease monitoring in patients with chronic myeloid leukaemia during interferon-$\alpha$ therapy}
+      \field{volume}{101}
+      \field{year}{1998}
+      \field{pages}{552\bibrangedash 557}
+      \range{pages}{6}
+    \endentry
+    \entry{till1964stochastic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0daa647c25ccbbb4f842a46bf73abf21}{%
+           family={Till},
+           family_i={T\bibinitperiod},
+           given={James\bibnamedelima E},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=a87cd45fe59a8310b871a94f4469b206}{%
+           family={McCulloch},
+           family_i={M\bibinitperiod},
+           given={Ernest\bibnamedelima A},
+           given_i={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=19e3aba72f983a08cbbb0658266345cc}{%
+           family={Siminovitch},
+           family_i={S\bibinitperiod},
+           given={Louis},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{92b602afa00aeb8648964a2157d0e907}
+      \strng{fullhash}{92b602afa00aeb8648964a2157d0e907}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{1}
+      \field{title}{A stochastic model of stem cell proliferation, based on the growth of spleen colony-forming cells}
+      \field{volume}{51}
+      \field{year}{1964}
+      \field{pages}{29\bibrangedash 36}
+      \range{pages}{8}
+    \endentry
+    \entry{tomasetti2010role}{article}{}
+      \name{author}{2}{}{%
+        {{hash=670eb09a247acc894959047de584f8d4}{%
+           family={Tomasetti},
+           family_i={T\bibinitperiod},
+           given={Cristian},
+           given_i={C\bibinitperiod}}}%
+        {{hash=8cc9275ede21148aa9f80efccd8bccb0}{%
+           family={Levy},
+           family_i={L\bibinitperiod},
+           given={Doron},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{054719fb0c4562b0d6e4d8614e90254c}
+      \strng{fullhash}{054719fb0c4562b0d6e4d8614e90254c}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{39}
+      \field{title}{Role of symmetric and asymmetric division of stem cells in developing drug resistance}
+      \field{volume}{107}
+      \field{year}{2010}
+      \field{pages}{16766\bibrangedash 16771}
+      \range{pages}{6}
+    \endentry
+    \entry{van2007aberrant}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a68e7c0c9011bf83680c98575149197a}{%
+           family={Van\bibnamedelima Etten},
+           family_i={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a68e7c0c9011bf83680c98575149197a}
+      \strng{fullhash}{a68e7c0c9011bf83680c98575149197a}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oncogene}
+      \field{number}{47}
+      \field{title}{Aberrant cytokine signaling in leukemia}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{6738}
+      \range{pages}{1}
+    \endentry
+    \entry{van2007oncogenic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a68e7c0c9011bf83680c98575149197a}{%
+           family={Van\bibnamedelima Etten},
+           family_i={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rockefeller University Press}%
+      }
+      \strng{namehash}{a68e7c0c9011bf83680c98575149197a}
+      \strng{fullhash}{a68e7c0c9011bf83680c98575149197a}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Medicine}
+      \field{number}{3}
+      \field{title}{Oncogenic signaling: new insights and controversies from chronic myeloid leukemia}
+      \field{volume}{204}
+      \field{year}{2007}
+      \field{pages}{461\bibrangedash 465}
+      \range{pages}{5}
+    \endentry
+    \entry{effetto-imatinib-3}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0b77c6a23b8ff448b0b722e478222123}{%
+           family={Vigneri},
+           family_i={V\bibinitperiod},
+           given={Paolo},
+           given_i={P\bibinitperiod}}}%
+        {{hash=ccd4f2c65cc8041680d8f27b199280b9}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Jean\bibnamedelima YJ},
+           given_i={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{8cdee05835f5f59724e4e5d423ebde8b}
+      \strng{fullhash}{8cdee05835f5f59724e4e5d423ebde8b}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature medicine}
+      \field{number}{2}
+      \field{title}{Induction of apoptosis in chronic myelogenous leukemia cells through nuclear entrapment of BCR--ABL tyrosine kinase}
+      \field{volume}{7}
+      \field{year}{2001}
+      \field{pages}{228}
+      \range{pages}{1}
+    \endentry
+    \entry{wazewska1976matematyczne}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8d476f080bb5fdc1bf14273ac973c0dd}{%
+           family={Wazewska-Czyzewska},
+           family_i={W\bibinithyphendelim C\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+        {{hash=c4d3013d271c1b1b5cef8cbe21fc6139}{%
+           family={Lasota},
+           family_i={L\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{274be79e8e0549eae6c7edc3bcf774c6}
+      \strng{fullhash}{274be79e8e0549eae6c7edc3bcf774c6}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Matematyka Stosowana VI}
+      \field{title}{Matematyczne problemy dynamiki ukladu krwinek czerwonych}
+      \field{year}{1976}
+      \field{pages}{23\bibrangedash 40}
+      \range{pages}{18}
+    \endentry
+    \entry{sottoriva}{article}{}
+      \name{author}{6}{}{%
+        {{hash=88c3eeda7ffbd7d3b63a22e2527e8c0d}{%
+           family={Werner},
+           family_i={W\bibinitperiod},
+           given={Benjamin},
+           given_i={B\bibinitperiod}}}%
+        {{hash=580c3dace5cee63d5e4bb53771aa1b98}{%
+           family={Scott},
+           family_i={S\bibinitperiod},
+           given={Jacob\bibnamedelima G},
+           given_i={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=04d31891bb580b2c600eb251525541cc}{%
+           family={Sottoriva},
+           family_i={S\bibinitperiod},
+           given={Andrea},
+           given_i={A\bibinitperiod}}}%
+        {{hash=428a8ca0bb6fad6121a1837f912337e1}{%
+           family={Anderson},
+           family_i={A\bibinitperiod},
+           given={Alexander\bibnamedelima RA},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a87af49c0019bd494c5d082a79d985bf}{%
+           family={Traulsen},
+           family_i={T\bibinitperiod},
+           given={Arne},
+           given_i={A\bibinitperiod}}}%
+        {{hash=e69132e900fcf519f78d67e1495cde53}{%
+           family={Altrock},
+           family_i={A\bibinitperiod},
+           given={Philipp\bibnamedelima M},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AACR}%
+      }
+      \strng{namehash}{f14f5faa538897d3b1ab37ebc8450cec}
+      \strng{fullhash}{99675155b47f044071567ab79dba4cff}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancer research}
+      \field{number}{7}
+      \field{title}{The cancer stem cell fraction in hierarchically organized tumors can be estimated using mathematical modeling and patient-specific treatment trajectories}
+      \field{volume}{76}
+      \field{year}{2016}
+      \field{pages}{1705\bibrangedash 1713}
+      \range{pages}{9}
+    \endentry
+    \entry{white2013establishment}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=5caf3da06307b4c47c034d929ce6fbe0}{%
+           family={White},
+           family_i={W\bibinitperiod},
+           given={Helen\bibnamedelima E},
+           given_i={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9b3d1cb8aa8c34b7ed6c7c3a40b060ef}{%
+           family={Hedges},
+           family_i={H\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+        {{hash=66dcd56393d3822f95c465517a6c55c0}{%
+           family={Bendit},
+           family_i={B\bibinitperiod},
+           given={Israel},
+           given_i={I\bibinitperiod}}}%
+        {{hash=42e17c34d483c3fb2aa376c78b8043f1}{%
+           family={Branford},
+           family_i={B\bibinitperiod},
+           given={Susan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=59f0c619c3cad139db03cc3f9df8c43c}{%
+           family={Colomer},
+           family_i={C\bibinitperiod},
+           given={Dolors},
+           given_i={D\bibinitperiod}}}%
+        {{hash=5bfd0180f7db5bbc1b9920ce67251be0}{%
+           family={Hochhaus},
+           family_i={H\bibinitperiod},
+           given={Andreas},
+           given_i={A\bibinitperiod}}}%
+        {{hash=257fcd921b95c9c95aa38a6443b81bef}{%
+           family={Hughes},
+           family_i={H\bibinitperiod},
+           given={Timothy},
+           given_i={T\bibinitperiod}}}%
+        {{hash=77104c58037f1ea2c43e77293b360830}{%
+           family={Kamel-Reid},
+           family_i={K\bibinithyphendelim R\bibinitperiod},
+           given={Suzanne},
+           given_i={S\bibinitperiod}}}%
+        {{hash=f0010a1b73d87bfa68db1b568a708313}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Dong-Wook},
+           given_i={D\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=8d77e0a4ff9b9583ef62227f6c8991dc}{%
+           family={Modur},
+           family_i={M\bibinitperiod},
+           given={Vijay},
+           given_i={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Clinical Chemistry}%
+      }
+      \strng{namehash}{69b5edd69acc52e07391d0ca6b6eabc9}
+      \strng{fullhash}{dfb05796f01f4d283c1ff72e7fec9196}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical chemistry}
+      \field{number}{6}
+      \field{title}{Establishment and validation of analytical reference panels for the standardization of quantitative BCR-ABL1 measurements on the international scale}
+      \field{volume}{59}
+      \field{year}{2013}
+      \field{pages}{938\bibrangedash 948}
+      \range{pages}{11}
+    \endentry
+    \entry{yoshitsugu2012markov}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fa4e26d10bd537cdaf1f5739d6c68bfa}{%
+           family={YOSHITSUGU},
+           family_i={Y\bibinitperiod},
+           given={Hiroyuki},
+           given_i={H\bibinitperiod}}}%
+        {{hash=2eff331f577ae6b2ff2511c0a3361975}{%
+           family={IMAI},
+           family_i={I\bibinitperiod},
+           given={Yasuhiko},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=ef6dd8bebbee5a410458798b4451e066}{%
+           family={SERIU},
+           family_i={S\bibinitperiod},
+           given={Taku},
+           given_i={T\bibinitperiod}}}%
+        {{hash=c356aad83cd356f9d88be912531e8c24}{%
+           family={HIRAOKA},
+           family_i={H\bibinitperiod},
+           given={Masaki},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {The Japanese Society of Clinical Pharmacology}%
+        {Therapeutics}%
+      }
+      \strng{namehash}{09fd8516d14340e6dfc4f6b34749023c}
+      \strng{fullhash}{44bee50c924a083771041dfd1387a28d}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rinsho yakuri/Japanese Journal of Clinical Pharmacology and Therapeutics}
+      \field{number}{1}
+      \field{title}{Markov chain Monte Carlo Bayesian analysis for population pharmacokinetics of dasatinib in Japanese adult subjects with chronic myeloid leukemia and Philadelphia chromosome positive acute lymphoblastic leukemia}
+      \field{volume}{43}
+      \field{year}{2012}
+      \field{pages}{29\bibrangedash 41}
+      \range{pages}{13}
+    \endentry
+    \entry{effetto-imatinib-2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b8017c3535e5809d8677f9dd9462f904}{%
+           family={Yu},
+           family_i={Y\bibinitperiod},
+           given={Chunrong},
+           given_i={C\bibinitperiod}}}%
+        {{hash=1d5ea7db9db159c569c8b1b0681c89d8}{%
+           family={Krystal},
+           family_i={K\bibinitperiod},
+           given={Geoffrey},
+           given_i={G\bibinitperiod}}}%
+        {{hash=32b0a9033aad785294ff5511d8b43d22}{%
+           family={Dent},
+           family_i={D\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+        {{hash=6fae10b69e0d0cadab89ac62bffa4bd9}{%
+           family={Grant},
+           family_i={G\bibinitperiod},
+           given={Steven},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AACR}%
+      }
+      \strng{namehash}{009b246dba960496c75cab52dc062a2f}
+      \strng{fullhash}{3383ad994c498008ccf064fb87732aba}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Cancer Research}
+      \field{number}{9}
+      \field{title}{Flavopiridol potentiates STI571-induced mitochondrial damage and apoptosis in BCR-ABL-positive human leukemia cells}
+      \field{volume}{8}
+      \field{year}{2002}
+      \field{pages}{2976\bibrangedash 2984}
+      \range{pages}{9}
+    \endentry
+    \entry{zhang2010effective}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=edefadf2737f4300dd8a9daa07b31f02}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Bin},
+           given_i={B\bibinitperiod}}}%
+        {{hash=a5cf29afc0f06293dfb49f643772b784}{%
+           family={Strauss},
+           family_i={S\bibinitperiod},
+           given={Adam\bibnamedelima C},
+           given_i={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9ca68aa8273634605f031cc6240bd402}{%
+           family={Chu},
+           family_i={C\bibinitperiod},
+           given={Su},
+           given_i={S\bibinitperiod}}}%
+        {{hash=dd037b3b861a870d96b7329da5d30d28}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Min},
+           given_i={M\bibinitperiod}}}%
+        {{hash=e805446c834453985cbbc4ada461264a}{%
+           family={Ho},
+           family_i={H\bibinitperiod},
+           given={Yinwei},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=84673894899002c8f6f83f1e80ef7b3b}{%
+           family={Shiang},
+           family_i={S\bibinitperiod},
+           given={Keh-Dong},
+           given_i={K\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=321895702888f5bab7bb5b00f066837f}{%
+           family={Snyder},
+           family_i={S\bibinitperiod},
+           given={David\bibnamedelima S},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a40bdda218623e267965850a45f95ab9}{%
+           family={Huettner},
+           family_i={H\bibinitperiod},
+           given={Claudia\bibnamedelima S},
+           given_i={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2438471b7229e87c60267617c75b621b}{%
+           family={Shultz},
+           family_i={S\bibinitperiod},
+           given={Leonard},
+           given_i={L\bibinitperiod}}}%
+        {{hash=9620ec7a7c5667dd56d6541ad4d2a5db}{%
+           family={Holyoake},
+           family_i={H\bibinitperiod},
+           given={Tessa},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2df6deba9032a16a0d64e1cb6892e9c3}
+      \strng{fullhash}{3109d06616ca2477913990e0b67e35f6}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancer cell}
+      \field{number}{5}
+      \field{title}{Effective targeting of quiescent chronic myelogenous leukemia stem cells by histone deacetylase inhibitors in combination with imatinib mesylate}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{427\bibrangedash 442}
+      \range{pages}{16}
+    \endentry
+    \entry{zhang2003identification}{article}{}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=29e21c2e747abc99dd057a9bf7c3f830}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Jiwang},
+           given_i={J\bibinitperiod}}}%
+        {{hash=41ac9d1250210ab1fa33bdc5afd30f63}{%
+           family={Niu},
+           family_i={N\bibinitperiod},
+           given={Chao},
+           given_i={C\bibinitperiod}}}%
+        {{hash=db4facb50ac5aa098c2c84dd395541f8}{%
+           family={Ye},
+           family_i={Y\bibinitperiod},
+           given={Ling},
+           given_i={L\bibinitperiod}}}%
+        {{hash=a9a5cc3d6840b192e097f4a1983a49e3}{%
+           family={Huang},
+           family_i={H\bibinitperiod},
+           given={Haiyang},
+           given_i={H\bibinitperiod}}}%
+        {{hash=5ca5eefe97141a92dff9eb1a1b3e0d49}{%
+           family={He},
+           family_i={H\bibinitperiod},
+           given={Xi},
+           given_i={X\bibinitperiod}}}%
+        {{hash=a55022285c84834cfeca408d280ccfb3}{%
+           family={Tong},
+           family_i={T\bibinitperiod},
+           given={Wei-Gang},
+           given_i={W\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=9efb6b9dabd093a7abba69e00e925f79}{%
+           family={Ross},
+           family_i={R\bibinitperiod},
+           given={Jason},
+           given_i={J\bibinitperiod}}}%
+        {{hash=5cffe51230b23e5e4d13aa26bd7bdbc9}{%
+           family={Haug},
+           family_i={H\bibinitperiod},
+           given={Jeff},
+           given_i={J\bibinitperiod}}}%
+        {{hash=a04fcf0c43ec10e66301208a6e06264d}{%
+           family={Johnson},
+           family_i={J\bibinitperiod},
+           given={Teri},
+           given_i={T\bibinitperiod}}}%
+        {{hash=8f016a557e2405ef17eef193c3a0b6ed}{%
+           family={Feng},
+           family_i={F\bibinitperiod},
+           given={Jian\bibnamedelima Q},
+           given_i={J\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{bdc6717d89161867acbd42257311a618}
+      \strng{fullhash}{651abf97755111fa00babd354b0e1760}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6960}
+      \field{title}{Identification of the haematopoietic stem cell niche and control of the niche size}
+      \field{volume}{425}
+      \field{year}{2003}
+      \field{pages}{836}
+      \range{pages}{1}
+    \endentry
+    \entry{zhou2015leukemia}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e4a7378a4479b6ae12a944c60952b95d}{%
+           family={Zhou},
+           family_i={Z\bibinitperiod},
+           given={Hong},
+           given_i={H\bibinitperiod}}}%
+        {{hash=ffe216858b12c75c7fc176bae0dacf82}{%
+           family={Xu},
+           family_i={X\bibinitperiod},
+           given={Rongzhen},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{162966aad3d9f21d558aaada54f811b5}
+      \strng{fullhash}{162966aad3d9f21d558aaada54f811b5}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Protein \& cell}
+      \field{number}{6}
+      \field{title}{Leukemia stem cells: the root of chronic myeloid leukemia}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{403\bibrangedash 412}
+      \range{pages}{10}
+    \endentry
+    \entry{zhu2014clinical}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1a4cc60974837e41def809152b6f9b88}{%
+           family={Zhu},
+           family_i={Z\bibinitperiod},
+           given={Yu},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=a31fb2ca2943120184097fd5b07632c0}{%
+           family={Qian},
+           family_i={Q\bibinitperiod},
+           given={Si-Xuan},
+           given_i={S\bibinithyphendelim X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dove Press}%
+      }
+      \strng{namehash}{a5071e0de4b86d479345392dea770f51}
+      \strng{fullhash}{a5071e0de4b86d479345392dea770f51}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OncoTargets and therapy}
+      \field{title}{Clinical efficacy and safety of imatinib in the management of Ph+ chronic myeloid or acute lymphoblastic leukemia in Chinese patients}
+      \field{volume}{7}
+      \field{year}{2014}
+      \field{pages}{395}
+      \range{pages}{1}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
